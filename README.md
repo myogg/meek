@@ -1,5 +1,5 @@
 ## [meek](https://myogg.github.io/meek)
-My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issues and GitHub Actions (随意转载，无需署名)
+My personal blog([About Me](https://myogg.github.com/myogg/meek/issues/2)) using issues and GitHub Actions (随意转载，无需署名)
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
