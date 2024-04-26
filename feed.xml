@@ -1,7 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/myogg/meek</id><title>RSS feed of myogg's meek</title><updated>2024-04-26T15:09:21.048887+00:00</updated><link href="https://github.com/myogg/meek"/><link href="https://raw.githubusercontent.com/myogg/meek/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/myogg/meek/issues/2</id><title>about</title><updated>2024-04-26T15:09:21.197235+00:00</updated><content type="html"><![CDATA[<p>about</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/myogg/meek</id><title>RSS feed of myogg's meek</title><updated>2024-04-26T15:13:58.752931+00:00</updated><link href="https://github.com/myogg/meek"/><link href="https://raw.githubusercontent.com/myogg/meek/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/myogg/meek/issues/3</id><title>[转载]这个博客开源了</title><updated>2024-04-26T15:13:58.927581+00:00</updated><content type="html"><![CDATA[<h1><a href="https://github.com/yihong0618/gitblog/issues/177">点击进入作者仓库</a></h1>
+<p>因为一篇去年非常触动我的文章--<a href="https://laike9m.com/blog/people-die-but-long-live-github,122/">People Die, but Long Live GitHub</a>
+我决定不再用纸笔写日记，进而全部转到 GitHub 上。如果你看到这个，这个其实不是那些大牛的技术博客，而是单纯的碎碎念偶尔认真的记录自己而已。</p>
+<hr />
+<p>虽然如此但也经历了几个阶段</p>
+<ol>
+<li>纯粹的写issue</li>
+<li>写完issue后添加目录到README</li>
+<li>改成webhook用flask部署个callback 每次写完issue自动生成新的 README</li>
+<li>最近算是学会了一些 GitHub Actions，现在只需要写 issue 打 label 就好了，其余完全不用管。核心代码在 main.py</li>
+<li>支持了 RSS</li>
+</ol>
+<hr />
+<p>如果你也想自己写issue博客，并自动生成README，你可以参考如下步骤</p>
+<ol>
+<li>fork this repo (or just copy the  file whatever)</li>
+<li>change GitHub secret </li>
+<li>write issue and add label</li>
+<li>please delete all files in BACKUP folder(2020.11.26 add)</li>
+<li>别忘了在 settings 里打开 Actions 读写的权限</li>
+</ol>
+<p>关于如何生成 GitHub secret token</p>
+<p><img src="https://user-images.githubusercontent.com/15976103/91701631-27079f00-ebaa-11ea-8586-33b5989b73fb.png" alt="image" /></p>
+<ol>
+<li>在<a href="https://github.com/settings/tokens">这里</a> 点击 <code>generate new token</code>把需要的点上</li>
+<li>在你的repo 中更改 secret 中把刚生成的token设置进去
+<img src="https://user-images.githubusercontent.com/15976103/91701799-6209d280-ebaa-11ea-89a2-07f5699d9acb.png" alt="image" /></li>
+<li>更改workflow中的token name 换成你自己的（不要忘了secrets 点）
+<img src="https://user-images.githubusercontent.com/15976103/91702020-b745e400-ebaa-11ea-95e2-e2f9bcad917a.png" alt="image" /></li>
+</ol>
+]]></content><link href="https://github.com/myogg/meek/issues/3"/><category term="存档"/><published>2024-04-26T15:13:34+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/2</id><title>about</title><updated>2024-04-26T15:13:59.014095+00:00</updated><content type="html"><![CDATA[<p>about</p>
 <p>一事无成.
 一瓶子不满，半瓶子咣当。.</p>
-]]></content><link href="https://github.com/myogg/meek/issues/2"/><category term="About"/><published>2024-04-26T15:01:53+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/1</id><title>记录</title><updated>2024-04-26T15:09:21.274074+00:00</updated><content type="html"><![CDATA[<p>昨天重新做了系统，试了各种方法连接不到这个博客。</p>
+]]></content><link href="https://github.com/myogg/meek/issues/2"/><category term="About"/><published>2024-04-26T15:01:53+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/1</id><title>记录</title><updated>2024-04-26T15:13:59.086749+00:00</updated><content type="html"><![CDATA[<p>昨天重新做了系统，试了各种方法连接不到这个博客。</p>
 <p>更新了四五年的博客我一气之下删除了，从今天起用这个来记录我的后半生。</p>
 ]]></content><link href="https://github.com/myogg/meek/issues/1"/><category term="一些记录"/><published>2024-04-26T14:52:26+00:00</published></entry></feed>
