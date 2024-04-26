@@ -1,6 +1,6 @@
 # [62年前俄罗斯徒步者命案：UFO、KGB还是雪崩？](https://github.com/myogg/meek/issues/7)
 
-(https://img.imgdb.cn/item/6039ea145f4313ce25ed933e.jpg)
+[](https://img.imgdb.cn/item/6039ea145f4313ce25ed933e.jpg)
 徒步者摄于1959年1月28日的照片。相机和底片是在发现远足者尸体后找到的。
 莫斯科——1959年，是什么驱使九名经验丰富的徒步旅行者——有些人光着脚，几乎光着身子——走出帐篷，进入气温达到零下的严寒和坟墓般黑暗的俄罗斯荒野？
 ![](https://img.imgdb.cn/item/6039ea145f4313ce25ed9342.jpg)
