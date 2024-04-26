@@ -3,6 +3,7 @@ My personal blog([About Me](https://myogg.github.com/issues/2)) using issues and
 [RSS Feed](https://raw.githubusercontent.com/myogg/myogg.github.io/master/feed.xml)
 
 ## 最近更新
+- [about](https://github.com/myogg/myogg.github.io/issues/2)--2024-04-26
 - [记录](https://github.com/myogg/myogg.github.io/issues/1)--2024-04-26
 ## 一些记录
 - [记录](https://github.com/myogg/myogg.github.io/issues/1)--2024-04-26
