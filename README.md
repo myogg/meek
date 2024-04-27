@@ -3,11 +3,11 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
+- [阿里云的AI模型EMO上线通义App，允许用户通过照片和音频生成唱歌视频](https://github.com/myogg/meek/issues/12)--2024-04-27
 - [2017年十张最佳天文图片（NASA-APOD中文版）](https://github.com/myogg/meek/issues/11)--2024-04-27
 - [当前 Telegram 的连接性出现严重故障](https://github.com/myogg/meek/issues/10)--2024-04-26
 - [Github上优秀的Java项目](https://github.com/myogg/meek/issues/9)--2024-04-26
 - [世界上第一台  @NVIDIA](https://github.com/myogg/meek/issues/8)--2024-04-26
-- [62年前俄罗斯徒步者命案：UFO、KGB还是雪崩？](https://github.com/myogg/meek/issues/7)--2024-04-26
 ## 正文
 - [62年前俄罗斯徒步者命案：UFO、KGB还是雪崩？](https://github.com/myogg/meek/issues/7)--2024-04-26
 - [比岳飞还牛的两位抗金名将：一个病逝前线，一个被贬13年](https://github.com/myogg/meek/issues/6)--2024-04-26
@@ -18,6 +18,7 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 ## 存档
 - [[转载]这个博客开源了](https://github.com/myogg/meek/issues/3)--2024-04-26
 ## 一些记录
+- [阿里云的AI模型EMO上线通义App，允许用户通过照片和音频生成唱歌视频](https://github.com/myogg/meek/issues/12)--2024-04-27
 - [当前 Telegram 的连接性出现严重故障](https://github.com/myogg/meek/issues/10)--2024-04-26
 - [Github上优秀的Java项目](https://github.com/myogg/meek/issues/9)--2024-04-26
 - [世界上第一台  @NVIDIA](https://github.com/myogg/meek/issues/8)--2024-04-26
