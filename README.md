@@ -3,11 +3,11 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
+- [win7最后一版的32位vsocde便携版下载](https://github.com/myogg/meek/issues/15)--2024-04-27
 - [推荐耳根著的《光阴之外》,听不一样的玄幻修仙小说](https://github.com/myogg/meek/issues/14)--2024-04-27
 - [广州国家站4月雨量刷新历史记录](https://github.com/myogg/meek/issues/13)--2024-04-27
 - [阿里云的AI模型EMO上线通义App，允许用户通过照片和音频生成唱歌视频](https://github.com/myogg/meek/issues/12)--2024-04-27
 - [2017年十张最佳天文图片（NASA-APOD中文版）](https://github.com/myogg/meek/issues/11)--2024-04-27
-- [当前 Telegram 的连接性出现严重故障](https://github.com/myogg/meek/issues/10)--2024-04-26
 ## 正文
 - [推荐耳根著的《光阴之外》,听不一样的玄幻修仙小说](https://github.com/myogg/meek/issues/14)--2024-04-27
 - [62年前俄罗斯徒步者命案：UFO、KGB还是雪崩？](https://github.com/myogg/meek/issues/7)--2024-04-26
@@ -17,6 +17,7 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 ## 随笔
 - [2017年十张最佳天文图片（NASA-APOD中文版）](https://github.com/myogg/meek/issues/11)--2024-04-27
 ## 存档
+- [win7最后一版的32位vsocde便携版下载](https://github.com/myogg/meek/issues/15)--2024-04-27
 - [[转载]这个博客开源了](https://github.com/myogg/meek/issues/3)--2024-04-26
 ## 心情
 - [广州国家站4月雨量刷新历史记录](https://github.com/myogg/meek/issues/13)--2024-04-27
