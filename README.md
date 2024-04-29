@@ -3,11 +3,11 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
+- [二次验证小工具](https://github.com/myogg/meek/issues/29)--2024-04-29
 - [自然界有什么会发光的矿石？](https://github.com/myogg/meek/issues/28)--2024-04-29
 - [脑洞大开？火星遭受了令人毛骨悚然的爬行动物的侵扰](https://github.com/myogg/meek/issues/27)--2024-04-28
 - [爱普生打印机不能连接网络原因](https://github.com/myogg/meek/issues/26)--2024-04-28
 - [Telegram 近期更新的不错的功能](https://github.com/myogg/meek/issues/25)--2024-04-28
-- [Telegram 客户端使用富文本格式发送消息](https://github.com/myogg/meek/issues/24)--2024-04-28
 ## 正文
 - [自然界有什么会发光的矿石？](https://github.com/myogg/meek/issues/28)--2024-04-29
 - [Telegram 近期更新的不错的功能](https://github.com/myogg/meek/issues/25)--2024-04-28
@@ -48,3 +48,5 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 - [记录](https://github.com/myogg/meek/issues/1)--2024-04-26
 </details>
 
+## 软件
+- [二次验证小工具](https://github.com/myogg/meek/issues/29)--2024-04-29
