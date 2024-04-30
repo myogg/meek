@@ -3,11 +3,11 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
+- [项目功能：Apple Music音乐下载](https://github.com/myogg/meek/issues/34)--2024-04-30
 - [ 禅意人生算是摆烂吗，我们该以何种态度对待生活?](https://github.com/myogg/meek/issues/33)--2024-04-30
 - [Github，IPTV直播源 (定期更新)](https://github.com/myogg/meek/issues/32)--2024-04-30
 - [浏览器扩展，完全開源，無任何隱私收集、廣告或者亂七八糟的第三方庫](https://github.com/myogg/meek/issues/31)--2024-04-30
 - [Obsidian官方版基于 Markdown](https://github.com/myogg/meek/issues/30)--2024-04-29
-- [二次验证小工具](https://github.com/myogg/meek/issues/29)--2024-04-29
 ## 正文
 - [自然界有什么会发光的矿石？](https://github.com/myogg/meek/issues/28)--2024-04-29
 - [Telegram 近期更新的不错的功能](https://github.com/myogg/meek/issues/25)--2024-04-28
@@ -50,6 +50,7 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 </details>
 
 ## 软件
+- [项目功能：Apple Music音乐下载](https://github.com/myogg/meek/issues/34)--2024-04-30
 - [Github，IPTV直播源 (定期更新)](https://github.com/myogg/meek/issues/32)--2024-04-30
 - [浏览器扩展，完全開源，無任何隱私收集、廣告或者亂七八糟的第三方庫](https://github.com/myogg/meek/issues/31)--2024-04-30
 - [Obsidian官方版基于 Markdown](https://github.com/myogg/meek/issues/30)--2024-04-29
