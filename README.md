@@ -3,11 +3,11 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
+- [一个安卓的应用商店，无需谷歌框架，可下载国外应用](https://github.com/myogg/meek/issues/36)--2024-05-01
 - [网站功能：Github热门项目](https://github.com/myogg/meek/issues/35)--2024-04-30
 - [项目功能：Apple Music音乐下载](https://github.com/myogg/meek/issues/34)--2024-04-30
 - [ 禅意人生算是摆烂吗，我们该以何种态度对待生活?](https://github.com/myogg/meek/issues/33)--2024-04-30
 - [Github，IPTV直播源 (定期更新)](https://github.com/myogg/meek/issues/32)--2024-04-30
-- [浏览器扩展，完全開源，無任何隱私收集、廣告或者亂七八糟的第三方庫](https://github.com/myogg/meek/issues/31)--2024-04-30
 ## 正文
 - [自然界有什么会发光的矿石？](https://github.com/myogg/meek/issues/28)--2024-04-29
 - [Telegram 近期更新的不错的功能](https://github.com/myogg/meek/issues/25)--2024-04-28
@@ -28,6 +28,7 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 - [ 禅意人生算是摆烂吗，我们该以何种态度对待生活?](https://github.com/myogg/meek/issues/33)--2024-04-30
 - [2017年十张最佳天文图片（NASA-APOD中文版）](https://github.com/myogg/meek/issues/11)--2024-04-27
 ## 存档
+- [一个安卓的应用商店，无需谷歌框架，可下载国外应用](https://github.com/myogg/meek/issues/36)--2024-05-01
 - [网站功能：Github热门项目](https://github.com/myogg/meek/issues/35)--2024-04-30
 - [win7最后一版的32位vsocde便携版下载](https://github.com/myogg/meek/issues/15)--2024-04-27
 - [[转载]这个博客开源了](https://github.com/myogg/meek/issues/3)--2024-04-26
