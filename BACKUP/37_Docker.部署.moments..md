@@ -19,3 +19,11 @@ GitHub：[https://github.com/kingwrcy/moments](https://github.com/kingwrcy/momen
 参考：https://iwanlab.com/docker-compose-install-moments/
 
 官方 GitHub： https://github.com/kingwrcy/moments ( 目前 785个 star，欢迎大家去给作者点星星！）
+
+---
+
+YouTube
+视频地址：[https://youtu.be/rzIr0keyfIA](https://youtu.be/rzIr0keyfIA)
+
+5.2 哔哩哔哩
+哔哩哔哩：[https://www.bilibili.com/video/BV1UH4y1A7ra/](https://www.bilibili.com/video/BV1UH4y1A7ra/)
