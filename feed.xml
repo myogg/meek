@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/myogg/meek</id><title>RSS feed of myogg's meek</title><updated>2024-05-02T11:30:07.874093+00:00</updated><link href="https://github.com/myogg/meek"/><link href="https://raw.githubusercontent.com/myogg/meek/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/myogg/meek/issues/38</id><title>一个简洁的博客、微博客系统</title><updated>2024-05-02T11:30:08.146790+00:00</updated><content type="html"><![CDATA[<p>支持 Markdown、Editorjs 编辑器自由切换。
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/myogg/meek</id><title>RSS feed of myogg's meek</title><updated>2024-05-04T04:25:59.066256+00:00</updated><link href="https://github.com/myogg/meek"/><link href="https://raw.githubusercontent.com/myogg/meek/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/myogg/meek/issues/39</id><title>一个针对常用正则表达式的实用工具和备忘单</title><updated>2024-05-04T04:25:59.294495+00:00</updated><content type="html"><![CDATA[<p>🆔  网站名称：i Hate Regex </p>
+<p>⭐  网站功能：正则表达式工具</p>
+<p>📁  网站简介：一个针对常用正则表达式的实用工具和备忘单。提供了一系列常用的正则表达式，例如用户名、电话号码、电子邮件、日期、ASCII码、密码、IP地址（包括IPv6）、社会安全号等。</p>
+<p>不是程序员也可以熟悉正则表达式，像everything这样的软件都是可以使用的，对提高效率非常有帮助。</p>
+<p>🔗 <a href="https://ihateregex.io/">https://ihateregex.io/</a></p>
+]]></content><link href="https://github.com/myogg/meek/issues/39"/><category term="正文"/><published>2024-05-04T04:25:36+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/38</id><title>一个简洁的博客、微博客系统</title><updated>2024-05-04T04:25:59.375612+00:00</updated><content type="html"><![CDATA[<p>支持 Markdown、Editorjs 编辑器自由切换。
 项目地址：</p>
 <p><a href="https://github.com/hefengbao/one">https://github.com/hefengbao/one</a></p>
 <p>建议服务器选用 Linux 操作系统。需要按装的软件有 php, nginx, mysql, redis, memcached, supervisor, git, composer。</p>
@@ -27,7 +32,7 @@ php artisan route:cache
 php artisan view:cache
 php artisan config:cache</p>
 <p>tips 提示 安装成功后，登陆后台，修改个人资料，上传头像，这样做是为了生成 upload 目录，备份文件的时候只备份这个目录里的文件，初始状态这个目录不存在。 </p>
-]]></content><link href="https://github.com/myogg/meek/issues/38"/><category term="软件"/><published>2024-05-02T11:29:38+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/37</id><title>Docker 部署 moments </title><updated>2024-05-02T11:30:08.236332+00:00</updated><content type="html"><![CDATA[<p>GitHub：<a href="https://github.com/kingwrcy/moments">https://github.com/kingwrcy/moments</a></p>
+]]></content><link href="https://github.com/myogg/meek/issues/38"/><category term="软件"/><published>2024-05-02T11:29:38+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/37</id><title>Docker 部署 moments </title><updated>2024-05-04T04:25:59.477141+00:00</updated><content type="html"><![CDATA[<p>GitHub：<a href="https://github.com/kingwrcy/moments">https://github.com/kingwrcy/moments</a></p>
 <p>项目特色
 支持匿名评论/点赞
 支持引入网易云音乐，b站视频，插入链接等
@@ -42,19 +47,19 @@ php artisan config:cache</p>
 <p>基本使用
 参考：<a href="https://iwanlab.com/docker-compose-install-moments/">https://iwanlab.com/docker-compose-install-moments/</a></p>
 <p>官方 GitHub： <a href="https://github.com/kingwrcy/moments">https://github.com/kingwrcy/moments</a> ( 目前 785个 star，欢迎大家去给作者点星星！）</p>
-]]></content><link href="https://github.com/myogg/meek/issues/37"/><category term="存档"/><published>2024-05-01T07:47:07+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/36</id><title>一个安卓的应用商店，无需谷歌框架，可下载国外应用</title><updated>2024-05-02T11:30:08.330717+00:00</updated><content type="html"><![CDATA[<p>软件名称：Appteka</p>
+]]></content><link href="https://github.com/myogg/meek/issues/37"/><category term="存档"/><published>2024-05-01T07:47:07+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/36</id><title>一个安卓的应用商店，无需谷歌框架，可下载国外应用</title><updated>2024-05-04T04:25:59.573999+00:00</updated><content type="html"><![CDATA[<p>软件名称：Appteka</p>
 <p>软件功能：应用商店</p>
 <p>支持平台：#Android</p>
 <p>软件简介：一个安卓的应用商店，无需谷歌框架，可下载国外应用。</p>
 <p>可以在软件里下载，也可以在网页中下载，可以选择下载历史版本。</p>
 <p>商店里不只有正常版本的软件，还有修改版的软件。</p>
 <p>软件下载：<a href="https://appteka.store/">点击下载</a></p>
-]]></content><link href="https://github.com/myogg/meek/issues/36"/><category term="存档"/><published>2024-05-01T07:24:54+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/35</id><title>网站功能：Github热门项目</title><updated>2024-05-02T11:30:08.425670+00:00</updated><content type="html"><![CDATA[<p>网站名称：GitHub Trends </p>
+]]></content><link href="https://github.com/myogg/meek/issues/36"/><category term="存档"/><published>2024-05-01T07:24:54+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/35</id><title>网站功能：Github热门项目</title><updated>2024-05-04T04:25:59.663851+00:00</updated><content type="html"><![CDATA[<p>网站名称：GitHub Trends </p>
 <p>网站功能：Github热门项目</p>
 <p>网站简介：一个程序员必看的网站。该网页展示了当今GitHub社区最感兴趣的仓库，包括编程语言、工具、库等。</p>
 <p>作为程序员如果能上榜，那绝对是极大的荣誉。</p>
 <p>网站链接：<a href="https://github.com/trending">点击打开</a></p>
-]]></content><link href="https://github.com/myogg/meek/issues/35"/><category term="存档"/><published>2024-04-30T19:47:08+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/34</id><title>项目功能：Apple Music音乐下载</title><updated>2024-05-02T11:30:08.528255+00:00</updated><content type="html"><![CDATA[<p>项目简介：一个用于从Apple Music下载音乐的开源项目，支持下载ALAC格式和Dolby Atmos格式的音轨。</p>
+]]></content><link href="https://github.com/myogg/meek/issues/35"/><category term="存档"/><published>2024-04-30T19:47:08+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/34</id><title>项目功能：Apple Music音乐下载</title><updated>2024-05-04T04:25:59.741845+00:00</updated><content type="html"><![CDATA[<p>项目简介：一个用于从Apple Music下载音乐的开源项目，支持下载ALAC格式和Dolby Atmos格式的音轨。</p>
 <p>支持下载单曲、整个专辑以及歌单中的音乐。下载的文件可以自动分类到按歌手名和专辑名组织的文件夹中。</p>
 <p>项目地址：<a href="https://github.com/zhaarey/apple-music-alac-atmos-downloader">点击直达</a></p>
 <blockquote>
@@ -68,7 +73,7 @@ php artisan config:cache</p>
 可以直接main.exe url
 main_select 支持手动填写m3u8，输入#号，比如#1 #2，支持txt读取m3u8，输入txt文件名</p>
 </blockquote>
-]]></content><link href="https://github.com/myogg/meek/issues/34"/><category term="软件"/><published>2024-04-30T19:36:33+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/33</id><title> 禅意人生算是摆烂吗，我们该以何种态度对待生活?</title><updated>2024-05-02T11:30:08.656908+00:00</updated><content type="html"><![CDATA[<p>禅意生活是一种修心的境界，是一种珍惜当下，宠辱不惊的生活态度。</p>
+]]></content><link href="https://github.com/myogg/meek/issues/34"/><category term="软件"/><published>2024-04-30T19:36:33+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/33</id><title> 禅意人生算是摆烂吗，我们该以何种态度对待生活?</title><updated>2024-05-04T04:25:59.829132+00:00</updated><content type="html"><![CDATA[<p>禅意生活是一种修心的境界，是一种珍惜当下，宠辱不惊的生活态度。</p>
 <p>人生，过得快乐幸福的人，都是真正天真乐观活在当下的人。真正的人生，不是为了走向复杂，而是为了抵达天真。</p>
 <p>喜很欢宫崎骏的一句话：“岁月永远年轻，我们慢慢老去”。总有一天你会发现，童心未泯是一件值得骄傲的事情。童心未泯，就是天真；童心未泯，就是不忘初心。</p>
 <p>宋代禅宗大师青原行思提出参禅的三重境界：人生第一重境界：看山是山，看水是水涉世之初，还怀着对这个世界的好奇与新鲜，对一切事物都用一种童真的眼光来看待。</p>
@@ -81,7 +86,7 @@ main_select 支持手动填写m3u8，输入#号，比如#1 #2，支持txt读取m
 <p>人生的经历积累到一定程度，不断的反省，对世事、对自己的追求有了一个清晰的认识，认识到“世事一场大梦，人生几度秋凉”，知道自己追求的是什么，要放弃的是什么。</p>
 <p>这时，看山还是山，看水还是水，只是这山这水，看在眼里，已有另一种内涵在内了。</p>
 <p>人之一生，从垂髫小儿至垂垂老者，匆匆的人生旅途中，我们也经历着人生的三重境界。一个真正天真的人，必定是见过人世的复杂与阴暗，也必定经历过世俗的纷扰和烂漫。</p>
-]]></content><link href="https://github.com/myogg/meek/issues/33"/><category term="随笔"/><published>2024-04-30T17:33:12+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/32</id><title>Github，IPTV直播源 (定期更新)</title><updated>2024-05-02T11:30:08.753737+00:00</updated><content type="html"><![CDATA[<p>自动整合 好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流</p>
+]]></content><link href="https://github.com/myogg/meek/issues/33"/><category term="随笔"/><published>2024-04-30T17:33:12+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/32</id><title>Github，IPTV直播源 (定期更新)</title><updated>2024-05-04T04:25:59.919029+00:00</updated><content type="html"><![CDATA[<p>自动整合 好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流</p>
 <p>项目d地址：
 <a href="https://github.com/joevess/IPTV">https://github.com/joevess/IPTV</a></p>
 <p>国内加速：
@@ -97,7 +102,7 @@ main_select 支持手动填写m3u8，输入#号，比如#1 #2，支持txt读取m
 <p>更新：
 2024.01.25 新增备用源
 2024.01.08 新增m3u地址</p>
-]]></content><link href="https://github.com/myogg/meek/issues/32"/><category term="软件"/><published>2024-04-30T17:30:37+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/31</id><title>浏览器扩展，完全開源，無任何隱私收集、廣告或者亂七八糟的第三方庫</title><updated>2024-05-02T11:30:08.842913+00:00</updated><content type="html"><![CDATA[<p>项目地址：
+]]></content><link href="https://github.com/myogg/meek/issues/32"/><category term="软件"/><published>2024-04-30T17:30:37+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/31</id><title>浏览器扩展，完全開源，無任何隱私收集、廣告或者亂七八糟的第三方庫</title><updated>2024-05-04T04:26:00.014502+00:00</updated><content type="html"><![CDATA[<p>项目地址：
 <a href="https://github.com/hoothin/SearchJumper?tab=readme-ov-file#install">https://github.com/hoothin/SearchJumper?tab=readme-ov-file#install</a></p>
 <p><a href="https://hoothin.github.io/SearchJumper/">https://hoothin.github.io/SearchJumper/</a></p>
 <p><a href="https://search.hoothin.com/config/">https://search.hoothin.com/config/</a></p>
@@ -161,7 +166,7 @@ main_select 支持手动填写m3u8，输入#号，比如#1 #2，支持txt读取m
 不篡改原始頁面</p>
 <p>Drag to search with current category
 拖拽搜尋當前分類（文字/圖片/鏈接），内圈為當前分類前6個站點，外圈為最近使用的10個站點，可透過編輯第一個（文字/圖片/鏈接）分類來自定義内容</p>
-]]></content><link href="https://github.com/myogg/meek/issues/31"/><category term="软件"/><published>2024-04-30T17:23:09+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/30</id><title>Obsidian官方版基于 Markdown</title><updated>2024-05-02T11:30:08.950941+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/myogg/meek/issues/31"/><category term="软件"/><published>2024-04-30T17:23:09+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/30</id><title>Obsidian官方版基于 Markdown</title><updated>2024-05-04T04:26:00.111858+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>文件皆在本地，不依赖服务器</p>
 </blockquote>
 <blockquote>
@@ -181,7 +186,7 @@ main_select 支持手动填写m3u8，输入#号，比如#1 #2，支持txt读取m
 </blockquote>
 <p>作为黑曜石内测用户，用了3年多，这也能水一贴是没想到的。软件已经比较完善了，但对新手不友好，有门槛。</p>
 <p>官网：<a href="https://obsidian.md/">https://obsidian.md/</a></p>
-]]></content><link href="https://github.com/myogg/meek/issues/30"/><category term="软件"/><published>2024-04-29T18:28:00+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/29</id><title>二次验证小工具</title><updated>2024-05-02T11:30:09.044931+00:00</updated><content type="html"><![CDATA[<p>看到有人在找二次验证的软件，我正在用的是这个免费，好用。</p>
+]]></content><link href="https://github.com/myogg/meek/issues/30"/><category term="软件"/><published>2024-04-29T18:28:00+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/29</id><title>二次验证小工具</title><updated>2024-05-04T04:26:00.188938+00:00</updated><content type="html"><![CDATA[<p>看到有人在找二次验证的软件，我正在用的是这个免费，好用。</p>
 <p>Aegis</p>
 <p>github
 <a href="https://github.com/beemdevelopment/Aegis">https://github.com/beemdevelopment/Aegis</a></p>
@@ -189,7 +194,7 @@ main_select 支持手动填写m3u8，输入#号，比如#1 #2，支持txt读取m
 <a href="https://beem.dev/">https://beem.dev/</a></p>
 <p>网站：
 <a href="https://getaegis.app/">https://getaegis.app/</a></p>
-]]></content><link href="https://github.com/myogg/meek/issues/29"/><category term="软件"/><published>2024-04-29T18:18:21+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/28</id><title>自然界有什么会发光的矿石？</title><updated>2024-05-02T11:30:09.144270+00:00</updated><content type="html"><![CDATA[<p>自然界中有一种叫做莹石的矿石会发光，而且它真的好好看啊，你们看这些图片。</p>
+]]></content><link href="https://github.com/myogg/meek/issues/29"/><category term="软件"/><published>2024-04-29T18:18:21+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/28</id><title>自然界有什么会发光的矿石？</title><updated>2024-05-04T04:26:00.272619+00:00</updated><content type="html"><![CDATA[<p>自然界中有一种叫做莹石的矿石会发光，而且它真的好好看啊，你们看这些图片。</p>
 <p>萤石（Fluorite）又称氟石。自然界中较常见的一种矿物，可以与其他多种矿物共生，世界多地均产，[1]有5个有效变种。等轴晶系，主要成分是氟化钙（CaF2）。结晶为八面体和立方体。晶体呈玻璃光泽，颜色鲜艳多变，质脆，莫氏硬度为4，熔点1360℃，具有完全解理的性质。部分样本在受摩擦、加热、紫外线照射等情况下可以发光。</p>
 <p>该矿物来自火山岩浆，在岩浆冷却过程中，被岩浆分离出来的气水溶液内含氟，在溶液沿裂隙上升的过程里，气水溶液中的氟离子与周围岩石中的钙离子结合，形成氟化钙，冷却结晶后即形成萤石。存在于花岗岩、伟晶岩、正长岩等岩石内。</p>
 <p>因质脆软而不常被用作宝石。在工业方面，萤石是氟的主要来源，能够提取制备氟元素及其各种化合物。而颜色艳丽，结晶形态美观的萤石标本可用于收藏、装饰和雕刻工艺品。</p>
@@ -197,7 +202,7 @@ main_select 支持手动填写m3u8，输入#号，比如#1 #2，支持txt读取m
 <p><img src="https://pic.imgdb.cn/item/662fe1a20ea9cb1403d9aafd.jpg" alt="" /></p>
 <p><img src="https://pic.imgdb.cn/item/662fe1a20ea9cb1403d9ab38.jpg" alt="" /></p>
 <p><img src="https://pic.imgdb.cn/item/662fe1a20ea9cb1403d9ab67.jpg" alt="" /></p>
-]]></content><link href="https://github.com/myogg/meek/issues/28"/><category term="正文"/><published>2024-04-29T18:07:09+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/27</id><title>脑洞大开？火星遭受了令人毛骨悚然的爬行动物的侵扰</title><updated>2024-05-02T11:30:09.239828+00:00</updated><content type="html"><![CDATA[<p>欧洲航空局最近发布的图像让人脑洞大开，火星探测器拍摄的图像似乎显示，这颗红色星球遭受了令人毛骨悚然的爬行动物的侵扰。</p>
+]]></content><link href="https://github.com/myogg/meek/issues/28"/><category term="正文"/><published>2024-04-29T18:07:09+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/27</id><title>脑洞大开？火星遭受了令人毛骨悚然的爬行动物的侵扰</title><updated>2024-05-04T04:26:00.357066+00:00</updated><content type="html"><![CDATA[<p>欧洲航空局最近发布的图像让人脑洞大开，火星探测器拍摄的图像似乎显示，这颗红色星球遭受了令人毛骨悚然的爬行动物的侵扰。</p>
 <p>蜘蛛恐惧症者不必害怕，欧洲航空局（ESA，简称欧空局）拍摄的火星“蜘蛛”的新图像实际上是这颗红色星球上二氧化碳气体的季节性喷发。</p>
 <p>与地球类似，火星有四个不同的季节，每个季节的持续时间大约是地球季节的两倍。据欧空局的说法，这些蜘蛛状的地貌出现在火星的春天。</p>
 <p>由欧空局火星快车轨道飞行器2月27日收集的数据制作的图像显示，这种现象已经在火星南极地区被称为“印加城”（Inca City）的地层中发生。</p>
@@ -211,13 +216,13 @@ main_select 支持手动填写m3u8，输入#号，比如#1 #2，支持txt读取m
 <p>2002年，NASA的火星轨道飞行器显示，印加城是一个宽约53英里的大圆圈结构的一部分，有专家推测其是太空岩石撞击地表并形成陨石坑的结果，也有人推测周围平原地区的断层可能充满了凸出的熔岩，这些熔岩后来被磨损，露出了类似古代遗迹的地层。</p>
 <p>科学家一直在研究火星的宜居性，数十亿年前，当地球上出现生命时，火星的气候也可能与地球相似，拥有比今天更厚的大气层和液态水海洋。</p>
 <p>NASA的好奇号和毅力号火星车均表明，火星的早期环境适合微生物生命。将火星岩石带回地球是NASA有史以来尝试过的最具挑战性的任务，第一阶段已经开始。因任务成本和复杂性高，NASA呼吁私营公司提供支持。</p>
-]]></content><link href="https://github.com/myogg/meek/issues/27"/><category term="一些记录"/><published>2024-04-28T13:07:50+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/26</id><title>爱普生打印机不能连接网络原因</title><updated>2024-05-02T11:30:09.321087+00:00</updated><content type="html"><![CDATA[<p>爱普生打印机不能连接网络原因:
+]]></content><link href="https://github.com/myogg/meek/issues/27"/><category term="一些记录"/><published>2024-04-28T13:07:50+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/26</id><title>爱普生打印机不能连接网络原因</title><updated>2024-05-04T04:26:00.436901+00:00</updated><content type="html"><![CDATA[<p>爱普生打印机不能连接网络原因:
 <img src="https://pic.imgdb.cn/item/662e46110ea9cb1403b91aea.jpg" alt="" />
 现在的路由器是2.4g和5G并网的，但爱普生打印机可能网卡可能太低级，不支持5G网络，所以连接不到网络。</p>
 <blockquote>
 <p>一定要把2.4G和5G的网络分开，这样才能连接。</p>
 </blockquote>
-]]></content><link href="https://github.com/myogg/meek/issues/26"/><category term="一些记录"/><published>2024-04-28T12:50:49+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/25</id><title>Telegram 近期更新的不错的功能</title><updated>2024-05-02T11:30:09.425986+00:00</updated><content type="html"><![CDATA[<p>Telegram 近期更新的不错的功能</p>
+]]></content><link href="https://github.com/myogg/meek/issues/26"/><category term="一些记录"/><published>2024-04-28T12:50:49+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/25</id><title>Telegram 近期更新的不错的功能</title><updated>2024-05-04T04:26:00.520378+00:00</updated><content type="html"><![CDATA[<p>Telegram 近期更新的不错的功能</p>
 <p>• 消息翻译
 Telegram 官方客户端已支持对消息的翻译功能，已支持 iOS、Android、macOS、Desktop 客户端
 详情: <a href="https://t.me/tgcnz/841">点击</a></p>
@@ -245,7 +250,7 @@ Telegram 官方推出的一个自动删除群组中的&quot;垃圾&quot;广告�
 群组的管理员可以开启设置隐藏成员列表了，这样可以避免不少的私聊广告: 管理群组→成员→隐藏成员列表
 强烈建议各个群管理员开启此功能
 详情: <a href="https://t.me/TelegramTips/375">点击</a></p>
-]]></content><link href="https://github.com/myogg/meek/issues/25"/><category term="正文"/><published>2024-04-28T11:54:40+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/24</id><title>Telegram 客户端使用富文本格式发送消息</title><updated>2024-05-02T11:30:09.529244+00:00</updated><content type="html"><![CDATA[<p>Telegram 客户端使用富文本格式发送消息</p>
+]]></content><link href="https://github.com/myogg/meek/issues/25"/><category term="正文"/><published>2024-04-28T11:54:40+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/24</id><title>Telegram 客户端使用富文本格式发送消息</title><updated>2024-05-04T04:26:00.604062+00:00</updated><content type="html"><![CDATA[<p>Telegram 客户端使用富文本格式发送消息</p>
 <p>这是早就早就已经支持的功能，消息内容支持 加粗、斜体、下划线、删除线、等宽、剧透、链接 格式，各个客户端均支持</p>
 <p>加粗
 这是一段加粗的文字</p>
@@ -272,14 +277,14 @@ Telegram 官方推出的一个自动删除群组中的&quot;垃圾&quot;广告�
 <li>如果你找不到功能按钮，先使用此语言包汉化你的TG: <a href="https://t.me/setlanguage/zhcncc">https://t.me/setlanguage/zhcncc</a></li>
 <li>提问的时候，最好先描述清楚什么系统什么软件，描述不清楚的就截图发出来</li>
 </ul>
-]]></content><link href="https://github.com/myogg/meek/issues/24"/><category term="正文"/><published>2024-04-28T11:52:43+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/23</id><title>龙蛋的双极瓣辐射云  </title><updated>2024-05-02T11:30:09.621630+00:00</updated><content type="html"><![CDATA[<p>影像提供与版权: Rowan Prangley
+]]></content><link href="https://github.com/myogg/meek/issues/24"/><category term="正文"/><published>2024-04-28T11:52:43+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/23</id><title>龙蛋的双极瓣辐射云  </title><updated>2024-05-04T04:26:00.694392+00:00</updated><content type="html"><![CDATA[<p>影像提供与版权: Rowan Prangley
 <img src="https://pic.imgdb.cn/item/662e370c0ea9cb1403958c79.jpg" alt="" /></p>
 <p>说明： 为何单颗恒星能形成这团美丽的星云呢？</p>
 <p>发射星云NGC6164的中心有颗质量异常庞大的恒星。这颗被喻为牡蛎珍珠的中心恒星，据传是受到神话中的天坛战龙 保护的龙蛋。</p>
 <p>位于此主题影像中心、编录号为HD148937的这颗恒星，是如此的炽热，因此会辐射紫外光加热周围的气体。</p>
 <p>这些气体很可能是这颗恒星先前抛出的，具体成因则可能是与另一颗绕行的伴星之间的重力作用所致。而所抛出的物质，可能受到这颗大质量恒星的磁场之引导，最后聚成形状对称的双极瓣星云。</p>
 <p>跨幅约4光年的NGC6164，座落在南天矩尺座方向约3,600光年远之处。</p>
-]]></content><link href="https://github.com/myogg/meek/issues/23"/><category term="正文"/><published>2024-04-28T11:48:59+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/22</id><title>今日事0428</title><updated>2024-05-02T11:30:09.722089+00:00</updated><content type="html"><![CDATA[<h2>如果 PC 未达到支持 AI 的硬件标准 Windows 11 将显示水印</h2>
+]]></content><link href="https://github.com/myogg/meek/issues/23"/><category term="正文"/><published>2024-04-28T11:48:59+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/22</id><title>今日事0428</title><updated>2024-05-04T04:26:00.779733+00:00</updated><content type="html"><![CDATA[<h2>如果 PC 未达到支持 AI 的硬件标准 Windows 11 将显示水印</h2>
 <p>Windows 11 的一个预览版本 Insider Build 26200 被发现包含了一个 AI 硬件规格检测工具 AI Explorer。如果你的 PC 硬件未达到标准，它将显示水印形式的警告。目前的 AI Explorer 针对的是 Windows 11 的 ARM64 版本，要求系统配备 NPU 以及 16 GB 内存和 225 GB 系统存储空间。x86 版本目前所知的是 Windows 11 24H2 强制性要求 CPU 必须支持 SSE4.2 指令集，而今天几乎所有 x86 CPU 都支持该指令集。</p>
 <h2>Zlibrary 网站将暂时阻断来自中国大陆的任何访问</h2>
 <p>zlibrary今天在微信公众号表示：公众号的运营志愿者和B站账号的运营志愿者未参加zlibrary网站的任何运营，未接收任何捐助款项，对zlibrary网站中用户上传的涉政书籍完全不知情。</p>
@@ -297,7 +302,7 @@ Telegram 官方推出的一个自动删除群组中的&quot;垃圾&quot;广告�
 <p><img src="https://pic.imgdb.cn/item/662e29a30ea9cb140375205f.jpg" alt="" />
 由于任天堂向《Garry's Mod》发出了 DMCA (数字千年版权法) 删除通知，这个著名沙盒游戏正在清理 20 年以来所有与任天堂 IP 相关的创意工坊内容。</p>
 <p>《Garry's Mod》官方称自己收到了来自任天堂的邮件，并表示如果大家自行删除并不再上传任天堂的相关内容，那将是非常大的帮助。</p>
-]]></content><link href="https://github.com/myogg/meek/issues/22"/><category term="一些记录"/><published>2024-04-28T10:51:14+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/21</id><title>下一个模型会比 GPT4 强大非常多</title><updated>2024-05-02T11:30:09.806269+00:00</updated><content type="html"><![CDATA[<p>网友总结）：</p>
+]]></content><link href="https://github.com/myogg/meek/issues/22"/><category term="一些记录"/><published>2024-04-28T10:51:14+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/21</id><title>下一个模型会比 GPT4 强大非常多</title><updated>2024-05-04T04:26:00.875672+00:00</updated><content type="html"><![CDATA[<p>网友总结）：</p>
 <ul>
 <li>下一个模型会比 GPT4 强大非常多。</li>
 <li>
@@ -335,7 +340,7 @@ Telegram 官方推出的一个自动删除群组中的&quot;垃圾&quot;广告�
 </li>
 <li>未来一个高薪工作是给模型生成的结果提供专业的反馈。</li>
 </ul>
-]]></content><link href="https://github.com/myogg/meek/issues/21"/><category term="正文"/><published>2024-04-28T10:18:45+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/20</id><title>Ubuntu 24.04 LTS 正式发布</title><updated>2024-05-02T11:30:09.910766+00:00</updated><content type="html"><![CDATA[<p>Ubuntu 24.04 LTS 已正式发布，代号 “Noble Numbat”。</p>
+]]></content><link href="https://github.com/myogg/meek/issues/21"/><category term="正文"/><published>2024-04-28T10:18:45+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/20</id><title>Ubuntu 24.04 LTS 正式发布</title><updated>2024-05-04T04:26:00.958915+00:00</updated><content type="html"><![CDATA[<p>Ubuntu 24.04 LTS 已正式发布，代号 “Noble Numbat”。</p>
 <p>简单列举几个新特性：</p>
 <p>支持 armhf 架构 2038 年的问题</p>
 <p>使用 6.8 Linux kernel</p>
@@ -352,7 +357,7 @@ Telegram 官方推出的一个自动删除群组中的&quot;垃圾&quot;广告�
 <p>更多参看： <a href="https://discourse.ubuntu.com/t/noble-numbat-release-notes/39890?_ga=2.20791544.1720111299.1714149162-1601042728.1697173816#heading--new-features-in-24-04-lts">Noble Numbat Release Notes - Release - Ubuntu Community Hub 1</a></p>
 <p>下载请至： <a href="https://ubuntu.com/download">https://ubuntu.com/download 3</a></p>
 <p>原文： <a href="https://ubuntu.com/blog/canonical-releases-ubuntu-24-04-noble-numbat">Canonical releases Ubuntu 24.04 LTS Noble Numbat | Ubuntu 1</a></p>
-]]></content><link href="https://github.com/myogg/meek/issues/20"/><category term="正文"/><published>2024-04-28T10:03:04+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/19</id><title>要想保证高质量输出，输入必须是输出的十倍</title><updated>2024-05-02T11:30:10.002238+00:00</updated><content type="html"><![CDATA[<p>最近在读一本书，做笔记的时候很烦躁，因为无论怎么写，都感觉写得不到位。</p>
+]]></content><link href="https://github.com/myogg/meek/issues/20"/><category term="正文"/><published>2024-04-28T10:03:04+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/19</id><title>要想保证高质量输出，输入必须是输出的十倍</title><updated>2024-05-04T04:26:01.049400+00:00</updated><content type="html"><![CDATA[<p>最近在读一本书，做笔记的时候很烦躁，因为无论怎么写，都感觉写得不到位。</p>
 <p>这也是我在决定一定要自己写笔记，而不是复制粘贴原文后，遇到的一个问题。</p>
 <p>直到我刷到一个博主的分享。
 她本身是搞投资的，但是很喜欢文学，于是她在b站做了一个解读红楼梦的专栏，内容非常有深度。</p>
@@ -369,7 +374,7 @@ Telegram 官方推出的一个自动删除群组中的&quot;垃圾&quot;广告�
 <blockquote>
 <p>「而世之奇伟、瑰怪，非常之观，常在于险远，而人之所罕至焉，故非有志者不能至也。」</p>
 </blockquote>
-]]></content><link href="https://github.com/myogg/meek/issues/19"/><category term="一些记录"/><published>2024-04-28T01:37:37+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/18</id><title>张作霖为什么能从草莽中崛起？</title><updated>2024-05-02T11:30:10.111294+00:00</updated><content type="html"><![CDATA[<p>张作霖早年，从一众草莽中崛起，离不开这几点：</p>
+]]></content><link href="https://github.com/myogg/meek/issues/19"/><category term="一些记录"/><published>2024-04-28T01:37:37+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/18</id><title>张作霖为什么能从草莽中崛起？</title><updated>2024-05-04T04:26:01.140805+00:00</updated><content type="html"><![CDATA[<p>张作霖早年，从一众草莽中崛起，离不开这几点：</p>
 <p>大历史、大事件、贵人的挑战、遇贵人、可利用价值、成就/身份/影响力、分配权力的空间。</p>
 <hr />
 <p>大历史比如清末各国染指东北。每一个大历史阶段，都潜藏着许多矛盾。</p>
@@ -386,7 +391,7 @@ Telegram 官方推出的一个自动删除群组中的&quot;垃圾&quot;广告�
 <p>比如：一个大学生，去 10 家公司面试，都被拒了，面试时，经理都见不到，何谈大老板。但是 AI 来了，这个大学生花了半年，成了 AI 应用专家，还写了一些有影响的文章，然后被好几家公司邀请去做分享、做培训，在台下听讲的是大老板带着一众经理人，他们听完纷纷鼓掌。昨日我是牛夫人，今日我是小甜甜，为什么会这样？时也势也。</p>
 <p>美剧《权力的游戏》中，小指头说“混乱不是深渊，混乱是上升的阶梯”，就是这个意思。</p>
 <p>只有在乱世、洗牌时、权力真空地，大量权力人物遇到麻烦了，普通人才能崭露头角，才有阶层跃升的希望。这个普通人也不是随便谁都可以，英雄不问出处，但机会只垂青准备好的人。</p>
-]]></content><link href="https://github.com/myogg/meek/issues/18"/><category term="一些记录"/><published>2024-04-28T01:34:06+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/17</id><title>做自媒体，从最小阻力开始</title><updated>2024-05-02T11:30:10.212525+00:00</updated><content type="html"><![CDATA[<p>⭕ 做自媒体，从最小阻力开始</p>
+]]></content><link href="https://github.com/myogg/meek/issues/18"/><category term="一些记录"/><published>2024-04-28T01:34:06+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/17</id><title>做自媒体，从最小阻力开始</title><updated>2024-05-04T04:26:01.233839+00:00</updated><content type="html"><![CDATA[<p>⭕ 做自媒体，从最小阻力开始</p>
 <hr />
 <p>如果你不知道如何阅读，就用微信读书、五彩划线、BookxNote 这样的工具，边读边挑金句高亮或划线，读完后把金句提取出来到一篇笔记里。</p>
 <p>如果你不知道如何思考，就挑 10 个通用的思维模型，不要贪多，把这 10 个学会用熟就很厉害了，遇到问题就拿它们分析一下，通用的模型比如：5W2H、商业模式画布、IPO、SWOT、NLP 逻辑六层次、福格行为模型。</p>
@@ -407,7 +412,7 @@ Telegram 官方推出的一个自动删除群组中的&quot;垃圾&quot;广告�
 <p>够简单才可持续，可持续才有积累，有积累才能突破。</p>
 <p>如果一上来就搞得很复杂，就难以开始。即便开始了，也会因为做得太累而半途而废，一旦下了牌桌，有什么红利都跟你无关了，很可惜。</p>
 <hr />
-]]></content><link href="https://github.com/myogg/meek/issues/17"/><category term="一些记录"/><published>2024-04-28T01:26:51+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/16</id><title>Excel 万能公式</title><updated>2024-05-02T11:30:10.300520+00:00</updated><content type="html"><![CDATA[<p>Excel 万能公式</p>
+]]></content><link href="https://github.com/myogg/meek/issues/17"/><category term="一些记录"/><published>2024-04-28T01:26:51+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/16</id><title>Excel 万能公式</title><updated>2024-05-04T04:26:01.317787+00:00</updated><content type="html"><![CDATA[<p>Excel 万能公式</p>
 <p>1、多条件判断
 =IF(And(条件1,条件2..条件N),条件成立返回值)</p>
 <p>2、多条件查找
@@ -435,7 +440,7 @@ Telegram 官方推出的一个自动删除群组中的&quot;垃圾&quot;广告�
 =Randbetween(最小整数,最大整数)</p>
 <p>13、四舍五入公式
 =Round(数字,小数保留位数）</p>
-]]></content><link href="https://github.com/myogg/meek/issues/16"/><category term="一些记录"/><published>2024-04-27T18:20:52+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/15</id><title>win7最后一版的32位vsocde便携版下载</title><updated>2024-05-02T11:30:10.404105+00:00</updated><content type="html"><![CDATA[<p><a href="https://az764295.vo.msecnd.net/stable/e4503b30fc78200f846c62cf8091b76ff5547662/VSCode-win32-ia32-1.70.2.zip">VSCode-win32-ia32-1.70.2.</a></p>
+]]></content><link href="https://github.com/myogg/meek/issues/16"/><category term="一些记录"/><published>2024-04-27T18:20:52+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/15</id><title>win7最后一版的32位vsocde便携版下载</title><updated>2024-05-04T04:26:01.402331+00:00</updated><content type="html"><![CDATA[<p><a href="https://az764295.vo.msecnd.net/stable/e4503b30fc78200f846c62cf8091b76ff5547662/VSCode-win32-ia32-1.70.2.zip">VSCode-win32-ia32-1.70.2.</a></p>
 <p>核心点就是e4503b30fc78200f846c62cf8091b76ff5547662</p>
 <p><a href="https://code.visualstudio.com/updates/v1_70">https://code.visualstudio.com/updates/v1_70</a></p>
 <p>找到相应版本的默认64位下载链接，<a href="https://update.code.visualstudio.com/1.70.2/win32-x64-user/stable">https://update.code.visualstudio.com/1.70.2/win32-x64-user/stable</a></p>
@@ -444,7 +449,7 @@ Telegram 官方推出的一个自动删除群组中的&quot;垃圾&quot;广告�
 <p>提取其中的关键标签e4503b30fc78200f846c62cf8091b76ff5547662</p>
 <p>然后和上面地址拼接，替换掉大括号的部分，大括号也要替换掉。</p>
 <p><a href="https://az764295.vo.msecnd.net/stable/%7B%E7%89%88%E6%9C%AC%E5%AF%B9%E5%BA%94%E7%9A%84%E6%A0%87%E7%AD%BE%7D/VSCode-win32-ia32-1.70.2.zip">https://az764295.vo.msecnd.net/stable/{版本对应的标签}/VSCode-win32-ia32-1.70.2.zip</a></p>
-]]></content><link href="https://github.com/myogg/meek/issues/15"/><category term="存档"/><published>2024-04-27T18:01:22+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/14</id><title>推荐耳根著的《光阴之外》,听不一样的玄幻修仙小说</title><updated>2024-05-02T11:30:10.495940+00:00</updated><content type="html"><![CDATA[<p><strong>此次介绍的网络小说是《光阴之外》，作者：耳根，知名阅文集团白金作家，作品有：《三寸人间》《我欲封天》《一念永恒》《求魔》《仙逆》等，都是精品之作。</strong></p>
+]]></content><link href="https://github.com/myogg/meek/issues/15"/><category term="存档"/><published>2024-04-27T18:01:22+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/14</id><title>推荐耳根著的《光阴之外》,听不一样的玄幻修仙小说</title><updated>2024-05-04T04:26:01.493052+00:00</updated><content type="html"><![CDATA[<p><strong>此次介绍的网络小说是《光阴之外》，作者：耳根，知名阅文集团白金作家，作品有：《三寸人间》《我欲封天》《一念永恒》《求魔》《仙逆》等，都是精品之作。</strong></p>
 <p><img src="https://pic.imgdb.cn/item/662d35900ea9cb1403b3d386.webp" alt="" /></p>
 <blockquote>
 <p>一、作品简介：世人皆在光阴之内熙熙攘攘，生与死的差距是否就在于光阴，光阴之外到底是什么？这本《光阴之外》，耳根用自己独创的故事讲述了自己内心深处那光阴之外的世界。男主：许青，性格极为坚韧，做事狠辣、隐忍，理智、冷静，原则性强，典型的末世求生类型的主角特点。</p>
@@ -458,14 +463,14 @@ Telegram 官方推出的一个自动删除群组中的&quot;垃圾&quot;广告�
 <blockquote>
 <p>四、感受：看小说时，能够很快被带入剧情，男主冷酷狠辣，拼尽全力在末世中求生。剧情也快速推进，随着男主不断地战斗，内心热血爆棚。同时，修仙流的庞大背景也给读者们留下来无尽的想象空间。</p>
 </blockquote>
-]]></content><link href="https://github.com/myogg/meek/issues/14"/><category term="正文"/><published>2024-04-27T17:29:05+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/13</id><title>广州国家站4月雨量刷新历史记录</title><updated>2024-05-02T11:30:10.616605+00:00</updated><content type="html"><![CDATA[<p>截至2024年4月27日16时，广州国家站（59287）记录到的4月累计雨量为455.8毫米、打破了自1951以来的4月雨量纪录 。</p>
+]]></content><link href="https://github.com/myogg/meek/issues/14"/><category term="正文"/><published>2024-04-27T17:29:05+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/13</id><title>广州国家站4月雨量刷新历史记录</title><updated>2024-05-04T04:26:01.592260+00:00</updated><content type="html"><![CDATA[<p>截至2024年4月27日16时，广州国家站（59287）记录到的4月累计雨量为455.8毫米、打破了自1951以来的4月雨量纪录 。</p>
 <p>希望平安！</p>
-]]></content><link href="https://github.com/myogg/meek/issues/13"/><category term="心情"/><published>2024-04-27T17:23:06+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/12</id><title>阿里云的AI模型EMO上线通义App，允许用户通过照片和音频生成唱歌视频</title><updated>2024-05-02T11:30:10.704569+00:00</updated><content type="html"><![CDATA[<p>由通义实验室研发的AI模型EMO已在通义App上线，供用户免费使用。EMO是一个音频驱动的AI肖像视频生成系统，能够根据输入的参考图像和语音音频生成具有表现力的面部表情和头部姿势视频。用户可以选择多种模板，如热门歌曲或网络热梗，上传肖像照片后，EMO将合成相应的唱歌视频。目前，App提供了80多个模板，但不支持自定义音频。</p>
+]]></content><link href="https://github.com/myogg/meek/issues/13"/><category term="心情"/><published>2024-04-27T17:23:06+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/12</id><title>阿里云的AI模型EMO上线通义App，允许用户通过照片和音频生成唱歌视频</title><updated>2024-05-04T04:26:01.678615+00:00</updated><content type="html"><![CDATA[<p>由通义实验室研发的AI模型EMO已在通义App上线，供用户免费使用。EMO是一个音频驱动的AI肖像视频生成系统，能够根据输入的参考图像和语音音频生成具有表现力的面部表情和头部姿势视频。用户可以选择多种模板，如热门歌曲或网络热梗，上传肖像照片后，EMO将合成相应的唱歌视频。目前，App提供了80多个模板，但不支持自定义音频。</p>
 <p>EMO的主要特点包括音频驱动的视频生成、高表现力和逼真度、无缝帧过渡、身份保持、稳定的控制机制、灵活的视频时长以及跨语言和风格的适应能力。此外，EMO的官方项目主页、研究论文和GitHub链接均已提供，模型和源码将待开源。</p>
 <p><a href="https://humanaigc.github.io/emote-portrait-alive/">项目主页</a>
 <a href="https://github.com/HumanAIGC/EMO">GitHub(待开源)</a>
 <a href="https://arxiv.org/abs/2402.17485">Arxiv</a></p>
-]]></content><link href="https://github.com/myogg/meek/issues/12"/><category term="一些记录"/><published>2024-04-27T17:09:17+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/11</id><title>2017年十张最佳天文图片（NASA-APOD中文版）</title><updated>2024-05-02T11:30:10.806824+00:00</updated><content type="html"><![CDATA[<p>第一位
+]]></content><link href="https://github.com/myogg/meek/issues/12"/><category term="一些记录"/><published>2024-04-27T17:09:17+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/11</id><title>2017年十张最佳天文图片（NASA-APOD中文版）</title><updated>2024-05-04T04:26:01.768420+00:00</updated><content type="html"><![CDATA[<p>第一位
 2017 年1 月1 日</p>
 <p><img src="https://pic.imgdb.cn/item/662d2eaa0ea9cb1403a5071a.webp" alt="" /></p>
 <p>笼罩挪威的极光</p>
@@ -525,7 +530,7 @@ Telegram 官方推出的一个自动删除群组中的&quot;垃圾&quot;广告�
 <p>极区上空的火流星</p>
 <p>影像提供与版权: Yang Sutie (杨苏铁)</p>
 <p>说明: 有很明亮的光源照亮了极区，它会是什么呢？摄影者原先是想拍摄一系统的极光照片，然后再把它们制作成缩时影片。不过，当黑夜突然变成白画之时，这位天文摄影者很快就意识到，他见证了更精采的景观。当时在天空掠过北斗七星前方的，不仅仅只是一颗双子座流星，而且是一颗如假包换的明亮火流星。这颗流星突然变亮，然后持续了数秒钟才消失。很幸运的，原先设置要拍摄极光的相机还是能记录下完整的迹线。这张影像摄于双子座流星雨极大期后一晚，摄影者的位置则在俄罗斯．摩尔曼斯克市的洛沃泽罗湖附近，比北极圈要偏北一点。</p>
-]]></content><link href="https://github.com/myogg/meek/issues/11"/><category term="随笔"/><published>2024-04-27T17:03:25+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/10</id><title>当前 Telegram 的连接性出现严重故障</title><updated>2024-05-02T11:30:10.920860+00:00</updated><content type="html"><![CDATA[<p><img src="https://pic.imgdb.cn/item/662be96c0ea9cb1403172d16.jpg" alt="" />
+]]></content><link href="https://github.com/myogg/meek/issues/11"/><category term="随笔"/><published>2024-04-27T17:03:25+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/10</id><title>当前 Telegram 的连接性出现严重故障</title><updated>2024-05-04T04:26:01.861002+00:00</updated><content type="html"><![CDATA[<p><img src="https://pic.imgdb.cn/item/662be96c0ea9cb1403172d16.jpg" alt="" />
 当前 Telegram 的连接性出现严重故障</p>
 <p>本次故障的主要影响地区为 DC5，即亚太区域（新加坡机房），美洲部分地区用户也有报告服务器可靠性相关问题。
 主要影响范围为隶属于 DC5 的帐号、群组、频道和 bot。
@@ -533,7 +538,7 @@ Telegram 官方推出的一个自动删除群组中的&quot;垃圾&quot;广告�
 (频道、群聊的消息统计等功能恢复时间未定）</p>
 <p>本消息发送时间为凌晨 01:15，上载至服务器的时间未知。
 如果各位看到这条消息请放宽心，并不是用户本地网络问题。</p>
-]]></content><link href="https://github.com/myogg/meek/issues/10"/><category term="一些记录"/><published>2024-04-26T17:52:37+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/9</id><title>Github上优秀的Java项目</title><updated>2024-05-02T11:30:11.049629+00:00</updated><content type="html"><![CDATA[<p>大家都知道 Github 是一个程序员福地，这里有各种厉害的开源框架、软件或者教程。这些东西对于我们学习和进步有着莫大的进步，所以我有了这个将 Github 上非常棒的 Java 开源项目整理下来的想法。我会按照几个维度对项目进行分类，以便大家查阅。当然，如果你觉得不错的话，欢迎给本项目点个 Star。我会用我的业余时间持续完善这份名单，谢谢 。</p></p>
+]]></content><link href="https://github.com/myogg/meek/issues/10"/><category term="一些记录"/><published>2024-04-26T17:52:37+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/9</id><title>Github上优秀的Java项目</title><updated>2024-05-04T04:26:02.059619+00:00</updated><content type="html"><![CDATA[<p>大家都知道 Github 是一个程序员福地，这里有各种厉害的开源框架、软件或者教程。这些东西对于我们学习和进步有着莫大的进步，所以我有了这个将 Github 上非常棒的 Java 开源项目整理下来的想法。我会按照几个维度对项目进行分类，以便大家查阅。当然，如果你觉得不错的话，欢迎给本项目点个 Star。我会用我的业余时间持续完善这份名单，谢谢 。</p></p>
 <p>欢迎大家推荐自己觉得不错的 Java 项目，下面项目的排序很大程度是根据当前项目的 Star 数量。</p>
 <p>如果有码云上比较好的项目的话，我也会推荐到这里来！另外，我也会推荐少部分过于优秀但是非开源的优质 Java 项目。</p>
 <p>项目地址：</p>
@@ -682,9 +687,9 @@ Telegram 官方推出的一个自动删除群组中的&quot;垃圾&quot;广告�
 <h3><strong>其他</strong></h3>
 <ol>
 <li><strong><a class=" wrap external" href="https://link.zhihu.com/?target=https%3A//github.com/thingsboard/thingsboard" rel="nofollow noreferrer" target="_blank" data-za-detail-view-id="1043">thingsboard</a></strong>&nbsp;：开源物联网平台 - 设备管理，数据收集，处理和可视化。</li>
-</ol>]]></content><link href="https://github.com/myogg/meek/issues/9"/><category term="一些记录"/><published>2024-04-26T17:19:47+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/8</id><title>世界上第一台  @NVIDIA</title><updated>2024-05-02T11:30:11.269370+00:00</updated><content type="html"><![CDATA[<p>DGX H200，由 Jensen 亲手交付给 OpenAI，致力于“推进人工智能、计算和人类发展”
+</ol>]]></content><link href="https://github.com/myogg/meek/issues/9"/><category term="一些记录"/><published>2024-04-26T17:19:47+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/8</id><title>世界上第一台  @NVIDIA</title><updated>2024-05-04T04:26:02.159863+00:00</updated><content type="html"><![CDATA[<p>DGX H200，由 Jensen 亲手交付给 OpenAI，致力于“推进人工智能、计算和人类发展”
 <img src="https://pic.imgdb.cn/item/662be02a0ea9cb1403fe6c93.png" alt="" /></p>
-]]></content><link href="https://github.com/myogg/meek/issues/8"/><category term="一些记录"/><published>2024-04-26T17:12:58+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/7</id><title>62年前俄罗斯徒步者命案：UFO、KGB还是雪崩？</title><updated>2024-05-02T11:30:11.359162+00:00</updated><content type="html"><![CDATA[<p><a href="https://img.imgdb.cn/item/6039ea145f4313ce25ed933e.jpg"></a>
+]]></content><link href="https://github.com/myogg/meek/issues/8"/><category term="一些记录"/><published>2024-04-26T17:12:58+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/7</id><title>62年前俄罗斯徒步者命案：UFO、KGB还是雪崩？</title><updated>2024-05-04T04:26:02.255062+00:00</updated><content type="html"><![CDATA[<p><a href="https://img.imgdb.cn/item/6039ea145f4313ce25ed933e.jpg"></a>
 徒步者摄于1959年1月28日的照片。相机和底片是在发现远足者尸体后找到的。
 莫斯科——1959年，是什么驱使九名经验丰富的徒步旅行者——有些人光着脚，几乎光着身子——走出帐篷，进入气温达到零下的严寒和坟墓般黑暗的俄罗斯荒野？
 <img src="https://img.imgdb.cn/item/6039ea145f4313ce25ed9342.jpg" alt="" />
@@ -692,7 +697,7 @@ Telegram 官方推出的一个自动删除群组中的&quot;垃圾&quot;广告�
 几十年来，这个谜题一直困扰着调查人员，并为许多书籍、电影和电视节目提供灵感。但现在，两位科学家认为他们可能终于找到了答案。
 <img src="https://img.imgdb.cn/item/6039ea145f4313ce25ed9347.jpg" alt="" />
 对一些俄罗斯人来说，这一长久的谜题已有了民族传奇的色彩，有人把它称为“迪亚特洛夫狂热”(Dyatlovmania)，它的名字来自年轻的登山队员领队伊戈尔·迪亚特洛夫(Igor Dyatlov)。这是一种将理性研究和疯狂的阴谋论相结合的痴迷，其中一些涉及UFO或雪人（yeti，据传生活在喜马拉雅山区，形如人类。——译注）。</p>
-]]></content><link href="https://github.com/myogg/meek/issues/7"/><category term="正文"/><published>2024-04-26T16:56:42+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/6</id><title>比岳飞还牛的两位抗金名将：一个病逝前线，一个被贬13年</title><updated>2024-05-02T11:30:11.443279+00:00</updated><content type="html"><![CDATA[<p>康元年春正月，金人犯京师，军于城西北。”</p>
+]]></content><link href="https://github.com/myogg/meek/issues/7"/><category term="正文"/><published>2024-04-26T16:56:42+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/6</id><title>比岳飞还牛的两位抗金名将：一个病逝前线，一个被贬13年</title><updated>2024-05-04T04:26:02.364834+00:00</updated><content type="html"><![CDATA[<p>康元年春正月，金人犯京师，军于城西北。”</p>
 <h4>1</h4>
 <p>靖康元年（1126年）正月，金兵长驱直入，攻占相州（今河南安阳），距离开封不过咫尺之遥。</p>
 <p>宋徽宗内禅后，从小不爱嬉戏游玩、才能平平的老实人宋钦宗，从他老爸手中接过了皇位这个烫手山芋，终日惶恐，无法安心过新年。
@@ -866,7 +871,7 @@ Telegram 官方推出的一个自动删除群组中的&quot;垃圾&quot;广告�
 <p>何忠礼：《南宋全史》，上海古籍出版社，2011年</p>
 <p>[日] 寺地遵：《南宋初期政治史研究》，复旦大学出版社，2016年</p>
 <p>白晓霞：《南渡三宰相研究（1127-1138）》，暨南大学博士论文2006年</p>
-]]></content><link href="https://github.com/myogg/meek/issues/6"/><category term="正文"/><published>2024-04-26T16:52:46+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/5</id><title>「祖传歌单」何去何从？你需要这份主流音乐平台「歌单迁移指南」</title><updated>2024-05-02T11:30:11.585961+00:00</updated><content type="html"><![CDATA[<p><img src="https://pic.downk.cc/item/5ff584373ffa7d37b3ad12e6.jpg" alt="" /><img src="https://pic.downk.cc/item/5ff584bf3ffa7d37b3adcc2f.jpg" alt="" />
+]]></content><link href="https://github.com/myogg/meek/issues/6"/><category term="正文"/><published>2024-04-26T16:52:46+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/5</id><title>「祖传歌单」何去何从？你需要这份主流音乐平台「歌单迁移指南」</title><updated>2024-05-04T04:26:02.485812+00:00</updated><content type="html"><![CDATA[<p><img src="https://pic.downk.cc/item/5ff584373ffa7d37b3ad12e6.jpg" alt="" /><img src="https://pic.downk.cc/item/5ff584bf3ffa7d37b3adcc2f.jpg" alt="" />
 TL; DR
 国内平台可以通过分享歌单链接，并在新的平台应用中粘贴来实现迁移。其中，QQ 音乐不支持分享为链接，需要在分享菜单点击「新浪微博」，才能在输入框中复制链接。
 国内平台迁移至 Spotify 可以使用 Uselesses，支持网易云音乐、QQ 音乐、虾米音乐和百度音乐。
@@ -929,7 +934,7 @@ QQ 音乐的导入功能在 我的 - 自建歌单 里，仅支持链接形式。
 国际平台相互迁移
 前文介绍的 TuneMyMusic 已经可以做到国际音乐平台之间的相互迁移，如果你是 iOS 用户，也可以尝试一下 SongShift 这款应用。在操作上，你只需要选择想要迁移的平台进行登录授权，随后选择歌单即可。</p>
 <p>SongShift 免费用户只能迁移一个歌单，Pro 用户则可以迁移曲库里的所有歌单，并且还可以实现两个平台歌单的自动同步。</p>
-]]></content><link href="https://github.com/myogg/meek/issues/5"/><category term="正文"/><published>2024-04-26T16:49:59+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/4</id><title>真正的屠城，远比一刀砍死要残酷的多</title><updated>2024-05-02T11:30:11.691624+00:00</updated><content type="html"><![CDATA[<p>如果是要杀光所有人，那也就罢了，左右都是个死，一刀的事。</p>
+]]></content><link href="https://github.com/myogg/meek/issues/5"/><category term="正文"/><published>2024-04-26T16:49:59+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/4</id><title>真正的屠城，远比一刀砍死要残酷的多</title><updated>2024-05-04T04:26:02.576383+00:00</updated><content type="html"><![CDATA[<p>如果是要杀光所有人，那也就罢了，左右都是个死，一刀的事。</p>
 <h3>但真正的屠城，远比一刀砍死要残酷的多。</h3>
 <p>在古代，人口是非常宝贵的资源，对于已经放弃抵抗的居民，但凡有一丝可能，统治者都不愿意进行屠城。</p>
 <p>之所以会产生屠城这样的命令，更大的原因，是为了激励前方的士卒，将屠城作为一种奖赏，而且还可以震慑其他的城池。</p>
@@ -1002,7 +1007,7 @@ QQ 音乐的导入功能在 我的 - 自建歌单 里，仅支持链接形式。
 <p>自四月二十五日起，至五月五日止，共十日，其间皆身所亲历，目所亲睹，故漫记之如此，远处风闻者不载也。後之人幸生太平之世，享无事之乐；不自修省，一味暴殄者，阅此当惊惕焉耳！</p>
 </blockquote>
 <p>我给大家翻译一下最后一句：如果后人有幸生于太平之世，享受到无战乱的快乐；那些不加强自我修养，不进行自我反省，反而沉迷于享受的人，阅读此文，应当惊醒警惕了！</p>
-]]></content><link href="https://github.com/myogg/meek/issues/4"/><category term="正文"/><published>2024-04-26T15:23:58+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/3</id><title>[转载]这个博客开源了</title><updated>2024-05-02T11:30:11.789582+00:00</updated><content type="html"><![CDATA[<h1><a href="https://github.com/yihong0618/gitblog/issues/177">点击进入作者仓库</a></h1>
+]]></content><link href="https://github.com/myogg/meek/issues/4"/><category term="正文"/><published>2024-04-26T15:23:58+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/3</id><title>[转载]这个博客开源了</title><updated>2024-05-04T04:26:02.673704+00:00</updated><content type="html"><![CDATA[<h1><a href="https://github.com/yihong0618/gitblog/issues/177">点击进入作者仓库</a></h1>
 <p>因为一篇去年非常触动我的文章--<a href="https://laike9m.com/blog/people-die-but-long-live-github,122/">People Die, but Long Live GitHub</a>
 我决定不再用纸笔写日记，进而全部转到 GitHub 上。如果你看到这个，这个其实不是那些大牛的技术博客，而是单纯的碎碎念偶尔认真的记录自己而已。</p>
 <hr />
@@ -1032,9 +1037,9 @@ QQ 音乐的导入功能在 我的 - 自建歌单 里，仅支持链接形式。
 <li>更改workflow中的token name 换成你自己的（不要忘了secrets 点）
 <img src="https://user-images.githubusercontent.com/15976103/91702020-b745e400-ebaa-11ea-95e2-e2f9bcad917a.png" alt="image" /></li>
 </ol>
-]]></content><link href="https://github.com/myogg/meek/issues/3"/><category term="存档"/><published>2024-04-26T15:13:34+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/2</id><title>about</title><updated>2024-05-02T11:30:11.890034+00:00</updated><content type="html"><![CDATA[<p>about</p>
+]]></content><link href="https://github.com/myogg/meek/issues/3"/><category term="存档"/><published>2024-04-26T15:13:34+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/2</id><title>about</title><updated>2024-05-04T04:26:02.767904+00:00</updated><content type="html"><![CDATA[<p>about</p>
 <p>一事无成.
 一瓶子不满，半瓶子咣当。.</p>
-]]></content><link href="https://github.com/myogg/meek/issues/2"/><category term="About"/><published>2024-04-26T15:01:53+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/1</id><title>记录</title><updated>2024-05-02T11:30:11.972810+00:00</updated><content type="html"><![CDATA[<p>昨天重新做了系统，试了各种方法连接不到这个博客。</p>
+]]></content><link href="https://github.com/myogg/meek/issues/2"/><category term="About"/><published>2024-04-26T15:01:53+00:00</published></entry><entry><id>https://github.com/myogg/meek/issues/1</id><title>记录</title><updated>2024-05-04T04:26:02.849488+00:00</updated><content type="html"><![CDATA[<p>昨天重新做了系统，试了各种方法连接不到这个博客。</p>
 <p>更新了四五年的博客我一气之下删除了，从今天起用这个来记录我的后半生。</p>
 ]]></content><link href="https://github.com/myogg/meek/issues/1"/><category term="一些记录"/><published>2024-04-26T14:52:26+00:00</published></entry></feed>
