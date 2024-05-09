@@ -3,11 +3,11 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
+- [Emby客户端整理汇总](https://github.com/myogg/meek/issues/46)--2024-05-09
 - [网易发布 iOS、Android 个人媒体库](https://github.com/myogg/meek/issues/45)--2024-05-07
 - [黑洞的吸积盘与喷流 ](https://github.com/myogg/meek/issues/44)--2024-05-07
 - [一个免费电子书下载站](https://github.com/myogg/meek/issues/43)--2024-05-06
 - [如何获得高质量休息：真正的休息不是睡觉，而是……](https://github.com/myogg/meek/issues/42)--2024-05-05
-- [WPS激活码2024](https://github.com/myogg/meek/issues/41)--2024-05-04
 ## 正文
 - [网易发布 iOS、Android 个人媒体库](https://github.com/myogg/meek/issues/45)--2024-05-07
 - [黑洞的吸积盘与喷流 ](https://github.com/myogg/meek/issues/44)--2024-05-07
@@ -64,13 +64,14 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 </details>
 
 ## 软件
+- [Emby客户端整理汇总](https://github.com/myogg/meek/issues/46)--2024-05-09
 - [一个简洁的博客、微博客系统](https://github.com/myogg/meek/issues/38)--2024-05-02
 - [项目功能：Apple Music音乐下载](https://github.com/myogg/meek/issues/34)--2024-04-30
 - [Github，IPTV直播源 (定期更新)](https://github.com/myogg/meek/issues/32)--2024-04-30
 - [浏览器扩展，完全開源，無任何隱私收集、廣告或者亂七八糟的第三方庫](https://github.com/myogg/meek/issues/31)--2024-04-30
-- [Obsidian官方版基于 Markdown](https://github.com/myogg/meek/issues/30)--2024-04-29
 <details><summary>显示更多</summary>
 
+- [Obsidian官方版基于 Markdown](https://github.com/myogg/meek/issues/30)--2024-04-29
 - [二次验证小工具](https://github.com/myogg/meek/issues/29)--2024-04-29
 </details>
 
