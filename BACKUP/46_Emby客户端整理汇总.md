@@ -8,7 +8,6 @@ iOS/iPadOS/macOS/AppleTV/Android/AndroidTV：
 [Emby](https://emby.media/)
 
 Android：
-[Yamby](https://t.me/yamby_release)
 [AfuseKt](https://github.com/AttemptD/AfuseKt-release)
 
 iOS/iPadOS/macOS/AppleTV：
