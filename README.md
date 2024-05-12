@@ -3,11 +3,11 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
+- [免费音乐库](https://github.com/myogg/meek/issues/47)--2024-05-12
 - [Emby客户端整理汇总](https://github.com/myogg/meek/issues/46)--2024-05-09
 - [网易发布 iOS、Android 个人媒体库](https://github.com/myogg/meek/issues/45)--2024-05-07
 - [黑洞的吸积盘与喷流 ](https://github.com/myogg/meek/issues/44)--2024-05-07
 - [一个免费电子书下载站](https://github.com/myogg/meek/issues/43)--2024-05-06
-- [如何获得高质量休息：真正的休息不是睡觉，而是……](https://github.com/myogg/meek/issues/42)--2024-05-05
 ## 正文
 - [网易发布 iOS、Android 个人媒体库](https://github.com/myogg/meek/issues/45)--2024-05-07
 - [黑洞的吸积盘与喷流 ](https://github.com/myogg/meek/issues/44)--2024-05-07
@@ -32,13 +32,14 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 - [ 禅意人生算是摆烂吗，我们该以何种态度对待生活?](https://github.com/myogg/meek/issues/33)--2024-04-30
 - [2017年十张最佳天文图片（NASA-APOD中文版）](https://github.com/myogg/meek/issues/11)--2024-04-27
 ## 存档
+- [免费音乐库](https://github.com/myogg/meek/issues/47)--2024-05-12
 - [About 直播源](https://github.com/myogg/meek/issues/40)--2024-05-04
 - [Docker 部署 moments ](https://github.com/myogg/meek/issues/37)--2024-05-01
 - [一个安卓的应用商店，无需谷歌框架，可下载国外应用](https://github.com/myogg/meek/issues/36)--2024-05-01
 - [网站功能：Github热门项目](https://github.com/myogg/meek/issues/35)--2024-04-30
-- [win7最后一版的32位vsocde便携版下载](https://github.com/myogg/meek/issues/15)--2024-04-27
 <details><summary>显示更多</summary>
 
+- [win7最后一版的32位vsocde便携版下载](https://github.com/myogg/meek/issues/15)--2024-04-27
 - [[转载]这个博客开源了](https://github.com/myogg/meek/issues/3)--2024-04-26
 </details>
 
