@@ -3,11 +3,11 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
+- [VMware Workstation Pro 和 VMware Fusion Pro 免费供个人用户使用](https://github.com/myogg/meek/issues/53)--2024-05-15
 - [Apple Music 推出了专属特设网页](https://github.com/myogg/meek/issues/52)--2024-05-14
 - [近期收集的有宝藏网站](https://github.com/myogg/meek/issues/51)--2024-05-14
 - [「免费 & 开源」的 Windows 软件](https://github.com/myogg/meek/issues/50)--2024-05-13
 - [腾讯已在QQ和微信上线地震预警功能](https://github.com/myogg/meek/issues/49)--2024-05-13
-- [apple-music-alac-atmos-downloader](https://github.com/myogg/meek/issues/48)--2024-05-12
 ## 正文
 - [apple-music-alac-atmos-downloader](https://github.com/myogg/meek/issues/48)--2024-05-12
 - [网易发布 iOS、Android 个人媒体库](https://github.com/myogg/meek/issues/45)--2024-05-07
@@ -49,13 +49,14 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 - [如何获得高质量休息：真正的休息不是睡觉，而是……](https://github.com/myogg/meek/issues/42)--2024-05-05
 - [广州国家站4月雨量刷新历史记录](https://github.com/myogg/meek/issues/13)--2024-04-27
 ## 一些记录
+- [VMware Workstation Pro 和 VMware Fusion Pro 免费供个人用户使用](https://github.com/myogg/meek/issues/53)--2024-05-15
 - [Apple Music 推出了专属特设网页](https://github.com/myogg/meek/issues/52)--2024-05-14
 - [近期收集的有宝藏网站](https://github.com/myogg/meek/issues/51)--2024-05-14
 - [「免费 & 开源」的 Windows 软件](https://github.com/myogg/meek/issues/50)--2024-05-13
 - [腾讯已在QQ和微信上线地震预警功能](https://github.com/myogg/meek/issues/49)--2024-05-13
-- [一个免费电子书下载站](https://github.com/myogg/meek/issues/43)--2024-05-06
 <details><summary>显示更多</summary>
 
+- [一个免费电子书下载站](https://github.com/myogg/meek/issues/43)--2024-05-06
 - [脑洞大开？火星遭受了令人毛骨悚然的爬行动物的侵扰](https://github.com/myogg/meek/issues/27)--2024-04-28
 - [爱普生打印机不能连接网络原因](https://github.com/myogg/meek/issues/26)--2024-04-28
 - [今日事0428](https://github.com/myogg/meek/issues/22)--2024-04-28
