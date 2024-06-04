@@ -3,11 +3,11 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
+- ["Steam代安装"登微博热搜](https://github.com/myogg/meek/issues/59)--2024-06-04
 - [互联网活化石ICQ，宣布停止服务](https://github.com/myogg/meek/issues/58)--2024-05-26
 - [庆余年 第二季 ](https://github.com/myogg/meek/issues/57)--2024-05-22
 - [谷歌I/O开发者大会要点一览](https://github.com/myogg/meek/issues/56)--2024-05-22
 - [一个开源的多人在线协作知识库应用](https://github.com/myogg/meek/issues/55)--2024-05-21
-- [检查电话号码是否与 Telegram 账户关联](https://github.com/myogg/meek/issues/54)--2024-05-21
 ## 正文
 - [互联网活化石ICQ，宣布停止服务](https://github.com/myogg/meek/issues/58)--2024-05-26
 - [庆余年 第二季 ](https://github.com/myogg/meek/issues/57)--2024-05-22
@@ -51,6 +51,7 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 </details>
 
 ## 心情
+- ["Steam代安装"登微博热搜](https://github.com/myogg/meek/issues/59)--2024-06-04
 - [如何获得高质量休息：真正的休息不是睡觉，而是……](https://github.com/myogg/meek/issues/42)--2024-05-05
 - [广州国家站4月雨量刷新历史记录](https://github.com/myogg/meek/issues/13)--2024-04-27
 ## 一些记录
