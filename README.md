@@ -3,11 +3,11 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
+- [开源许可的种类与区别](https://github.com/myogg/meek/issues/71)--2024-07-10
 - [一个全球性、非营利、无广告的健身资源平台](https://github.com/myogg/meek/issues/70)--2024-07-10
 - [粉色配色的 Google Pixel 9 真机上手视频。](https://github.com/myogg/meek/issues/69)--2024-07-08
 - [大疆发布 DJI Avinox 电助力系统，革新 eBike 骑行体验](https://github.com/myogg/meek/issues/68)--2024-07-08
 - [热门动漫盗版门户网站「Animeflix」宣告关闭](https://github.com/myogg/meek/issues/67)--2024-07-08
-- [国区Apple Music 订阅免费领取](https://github.com/myogg/meek/issues/66)--2024-07-08
 ## 正文
 - [时间陀螺](https://github.com/myogg/meek/issues/62)--2024-07-03
 - [缺觉再补大脑变傻 临考背书等于没背](https://github.com/myogg/meek/issues/61)--2024-06-14
@@ -65,13 +65,14 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 - [如何获得高质量休息：真正的休息不是睡觉，而是……](https://github.com/myogg/meek/issues/42)--2024-05-05
 - [广州国家站4月雨量刷新历史记录](https://github.com/myogg/meek/issues/13)--2024-04-27
 ## 一些记录
+- [开源许可的种类与区别](https://github.com/myogg/meek/issues/71)--2024-07-10
 - [一个全球性、非营利、无广告的健身资源平台](https://github.com/myogg/meek/issues/70)--2024-07-10
 - [大疆发布 DJI Avinox 电助力系统，革新 eBike 骑行体验](https://github.com/myogg/meek/issues/68)--2024-07-08
 - [国区Apple Music 订阅免费领取](https://github.com/myogg/meek/issues/66)--2024-07-08
 - [国区Apple Music 订阅免费领取](https://github.com/myogg/meek/issues/65)--2024-07-08
-- [下载Pornhub视频的Chrome浏览器插件](https://github.com/myogg/meek/issues/64)--2024-07-06
 <details><summary>显示更多</summary>
 
+- [下载Pornhub视频的Chrome浏览器插件](https://github.com/myogg/meek/issues/64)--2024-07-06
 - [NanaBo.轻量级 Windows 虚拟机](https://github.com/myogg/meek/issues/63)--2024-07-03
 - [缺觉再补大脑变傻 临考背书等于没背](https://github.com/myogg/meek/issues/61)--2024-06-14
 - [SpaceX 第四次星舰飞行测试圆满结束](https://github.com/myogg/meek/issues/60)--2024-06-06
