@@ -3,11 +3,11 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
+- [威联通NAS中使用Emby的方法](https://github.com/myogg/meek/issues/73)--2024-07-13
 - [猎鹰 9 号第二级在太空中发生故障](https://github.com/myogg/meek/issues/72)--2024-07-12
 - [开源许可的种类与区别](https://github.com/myogg/meek/issues/71)--2024-07-10
 - [一个全球性、非营利、无广告的健身资源平台](https://github.com/myogg/meek/issues/70)--2024-07-10
 - [粉色配色的 Google Pixel 9 真机上手视频。](https://github.com/myogg/meek/issues/69)--2024-07-08
-- [大疆发布 DJI Avinox 电助力系统，革新 eBike 骑行体验](https://github.com/myogg/meek/issues/68)--2024-07-08
 ## 正文
 - [时间陀螺](https://github.com/myogg/meek/issues/62)--2024-07-03
 - [缺觉再补大脑变傻 临考背书等于没背](https://github.com/myogg/meek/issues/61)--2024-06-14
