@@ -3,19 +3,20 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
+- [Google动手清理Play Store上的“低质量”应用](https://github.com/myogg/meek/issues/80)--2024-07-19
 - [OpenAI推出“GPT-4o mini](https://github.com/myogg/meek/issues/79)--2024-07-18
 - [代码托管平台 GitLab 正考虑出售，目前市值约 80 亿美元](https://github.com/myogg/meek/issues/78)--2024-07-17
 - [微软的 Copilot AI 现在能识别糟糕笔迹](https://github.com/myogg/meek/issues/77)--2024-07-17
 - [AT&T 数据泄露导致“几乎所有”无线客户的通话和短信记录外泄](https://github.com/myogg/meek/issues/76)--2024-07-17
-- [如何基于Github Issues与Github Actions写技术博客？](https://github.com/myogg/meek/issues/75)--2024-07-17
 ## 正文
+- [Google动手清理Play Store上的“低质量”应用](https://github.com/myogg/meek/issues/80)--2024-07-19
 - [如何基于Github Issues与Github Actions写技术博客？](https://github.com/myogg/meek/issues/75)--2024-07-17
 - [时间陀螺](https://github.com/myogg/meek/issues/62)--2024-07-03
 - [缺觉再补大脑变傻 临考背书等于没背](https://github.com/myogg/meek/issues/61)--2024-06-14
 - [互联网活化石ICQ，宣布停止服务](https://github.com/myogg/meek/issues/58)--2024-05-26
-- [庆余年 第二季 ](https://github.com/myogg/meek/issues/57)--2024-05-22
 <details><summary>显示更多</summary>
 
+- [庆余年 第二季 ](https://github.com/myogg/meek/issues/57)--2024-05-22
 - [谷歌I/O开发者大会要点一览](https://github.com/myogg/meek/issues/56)--2024-05-22
 - [一个开源的多人在线协作知识库应用](https://github.com/myogg/meek/issues/55)--2024-05-21
 - [检查电话号码是否与 Telegram 账户关联](https://github.com/myogg/meek/issues/54)--2024-05-21
