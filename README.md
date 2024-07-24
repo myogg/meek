@@ -3,19 +3,20 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
+- [Meta 重新设计的 Quest 应用大幅强调了 Horizon Worlds](https://github.com/myogg/meek/issues/82)--2024-07-24
 - [Meta 重新设计的 Quest 应用大幅强调了 Horizon Worlds](https://github.com/myogg/meek/issues/81)--2024-07-24
 - [Google动手清理Play Store上的“低质量”应用](https://github.com/myogg/meek/issues/80)--2024-07-19
 - [OpenAI推出“GPT-4o mini](https://github.com/myogg/meek/issues/79)--2024-07-18
 - [代码托管平台 GitLab 正考虑出售，目前市值约 80 亿美元](https://github.com/myogg/meek/issues/78)--2024-07-17
-- [微软的 Copilot AI 现在能识别糟糕笔迹](https://github.com/myogg/meek/issues/77)--2024-07-17
 ## 正文
+- [Meta 重新设计的 Quest 应用大幅强调了 Horizon Worlds](https://github.com/myogg/meek/issues/82)--2024-07-24
 - [Meta 重新设计的 Quest 应用大幅强调了 Horizon Worlds](https://github.com/myogg/meek/issues/81)--2024-07-24
 - [Google动手清理Play Store上的“低质量”应用](https://github.com/myogg/meek/issues/80)--2024-07-19
 - [如何基于Github Issues与Github Actions写技术博客？](https://github.com/myogg/meek/issues/75)--2024-07-17
 - [时间陀螺](https://github.com/myogg/meek/issues/62)--2024-07-03
-- [缺觉再补大脑变傻 临考背书等于没背](https://github.com/myogg/meek/issues/61)--2024-06-14
 <details><summary>显示更多</summary>
 
+- [缺觉再补大脑变傻 临考背书等于没背](https://github.com/myogg/meek/issues/61)--2024-06-14
 - [互联网活化石ICQ，宣布停止服务](https://github.com/myogg/meek/issues/58)--2024-05-26
 - [庆余年 第二季 ](https://github.com/myogg/meek/issues/57)--2024-05-22
 - [谷歌I/O开发者大会要点一览](https://github.com/myogg/meek/issues/56)--2024-05-22
