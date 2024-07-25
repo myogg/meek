@@ -3,11 +3,11 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
+- [网络罪犯操纵 GitHub 平台传播恶意程序](https://github.com/myogg/meek/issues/83)--2024-07-25
 - [Meta 重新设计的 Quest 应用大幅强调了 Horizon Worlds](https://github.com/myogg/meek/issues/81)--2024-07-24
 - [Google动手清理Play Store上的“低质量”应用](https://github.com/myogg/meek/issues/80)--2024-07-19
 - [OpenAI推出“GPT-4o mini](https://github.com/myogg/meek/issues/79)--2024-07-18
 - [代码托管平台 GitLab 正考虑出售，目前市值约 80 亿美元](https://github.com/myogg/meek/issues/78)--2024-07-17
-- [微软的 Copilot AI 现在能识别糟糕笔迹](https://github.com/myogg/meek/issues/77)--2024-07-17
 ## 正文
 - [Meta 重新设计的 Quest 应用大幅强调了 Horizon Worlds](https://github.com/myogg/meek/issues/81)--2024-07-24
 - [Google动手清理Play Store上的“低质量”应用](https://github.com/myogg/meek/issues/80)--2024-07-19
@@ -69,13 +69,14 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 - [如何获得高质量休息：真正的休息不是睡觉，而是……](https://github.com/myogg/meek/issues/42)--2024-05-05
 - [广州国家站4月雨量刷新历史记录](https://github.com/myogg/meek/issues/13)--2024-04-27
 ## 一些记录
+- [网络罪犯操纵 GitHub 平台传播恶意程序](https://github.com/myogg/meek/issues/83)--2024-07-25
 - [OpenAI推出“GPT-4o mini](https://github.com/myogg/meek/issues/79)--2024-07-18
 - [代码托管平台 GitLab 正考虑出售，目前市值约 80 亿美元](https://github.com/myogg/meek/issues/78)--2024-07-17
 - [AT&T 数据泄露导致“几乎所有”无线客户的通话和短信记录外泄](https://github.com/myogg/meek/issues/76)--2024-07-17
 - [Mozilla在Firefox 128版本中加入了由Meta共同编写、专为广告行业设计的PPA API](https://github.com/myogg/meek/issues/74)--2024-07-15
-- [威联通NAS中使用Emby的方法](https://github.com/myogg/meek/issues/73)--2024-07-13
 <details><summary>显示更多</summary>
 
+- [威联通NAS中使用Emby的方法](https://github.com/myogg/meek/issues/73)--2024-07-13
 - [猎鹰 9 号第二级在太空中发生故障](https://github.com/myogg/meek/issues/72)--2024-07-12
 - [开源许可的种类与区别](https://github.com/myogg/meek/issues/71)--2024-07-10
 - [一个全球性、非营利、无广告的健身资源平台](https://github.com/myogg/meek/issues/70)--2024-07-10
