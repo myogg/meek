@@ -1,7 +1,9 @@
 # [Meta 重新设计的 Quest 应用大幅强调了 Horizon Worlds](https://github.com/myogg/meek/issues/81)
 
 [Meta 重新设计的 Quest 应用大幅强调了 Horizon Worlds](https://www.theverge.com/2024/7/19/24202090/meta-quest-app-horizon-mobile-app-update)
+
 ![](https://pic.imgdb.cn/item/66a0a669d9c307b7e90e5055.jpg)
+
 现在这款名为 Meta Horizon 的应用程序，可以让你在手机上完成任务并自定义你的头像。
 
 Meta 正在推出新版的 Quest 手机应用程序，它与其 3D 社交平台 Horizon Worlds 更加紧密地结合在一起。这款应用现在称为 Meta Horizon，新增了一个标签，允许你从手机上完成任务并自定义你的头像。
