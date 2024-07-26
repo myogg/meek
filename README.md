@@ -3,11 +3,11 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
+- [转自即刻-你会觉得有些时候人生是极度荒谬的](https://github.com/myogg/meek/issues/86)--2024-07-26
 - [今晚巴黎奥运会开幕式，分享几个常用的直播源](https://github.com/myogg/meek/issues/85)--2024-07-26
 - [大脑对时间的感知并非是线性增量的](https://github.com/myogg/meek/issues/84)--2024-07-25
 - [网络罪犯操纵 GitHub 平台传播恶意程序](https://github.com/myogg/meek/issues/83)--2024-07-25
 - [Meta 重新设计的 Quest 应用大幅强调了 Horizon Worlds](https://github.com/myogg/meek/issues/81)--2024-07-24
-- [Google动手清理Play Store上的“低质量”应用](https://github.com/myogg/meek/issues/80)--2024-07-19
 ## 正文
 - [大脑对时间的感知并非是线性增量的](https://github.com/myogg/meek/issues/84)--2024-07-25
 - [Meta 重新设计的 Quest 应用大幅强调了 Horizon Worlds](https://github.com/myogg/meek/issues/81)--2024-07-24
@@ -41,6 +41,7 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 </details>
 
 ## 生活
+- [转自即刻-你会觉得有些时候人生是极度荒谬的](https://github.com/myogg/meek/issues/86)--2024-07-26
 - [今晚巴黎奥运会开幕式，分享几个常用的直播源](https://github.com/myogg/meek/issues/85)--2024-07-26
 - [大疆发布 DJI Avinox 电助力系统，革新 eBike 骑行体验](https://github.com/myogg/meek/issues/68)--2024-07-08
 ## 随笔
