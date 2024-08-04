@@ -8,4 +8,4 @@ Real-time Chat：重现微信群组和个人聊天记录查询项目
 
 链接：
 
-[https://github.com/WeChatAPIs/WeChatMsgHistory_real(https://github.com/WeChatAPIs/WeChatMsgHistory_real)
+[https://github.com/WeChatAPIs/WeChatMsgHistory_real](https://github.com/WeChatAPIs/WeChatMsgHistory_real)
