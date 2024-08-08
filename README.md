@@ -3,11 +3,11 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
+- [自动剪辑音频文件](https://github.com/myogg/meek/issues/92)--2024-08-08
 - [在线编辑和分享乐谱的网站](https://github.com/myogg/meek/issues/91)--2024-08-08
 - [Real-time Chat](https://github.com/myogg/meek/issues/90)--2024-08-04
 - [安全公司曝光 Cloudflare 隧道成黑客“保护伞”](https://github.com/myogg/meek/issues/89)--2024-08-04
 - [单栏样式 & 卡片式设计 的现代 Hexo 主题](https://github.com/myogg/meek/issues/88)--2024-08-02
-- [怎样在Github上写博客？](https://github.com/myogg/meek/issues/87)--2024-07-30
 ## 正文
 - [在线编辑和分享乐谱的网站](https://github.com/myogg/meek/issues/91)--2024-08-08
 - [Real-time Chat](https://github.com/myogg/meek/issues/90)--2024-08-04
@@ -54,13 +54,14 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 - [ 禅意人生算是摆烂吗，我们该以何种态度对待生活?](https://github.com/myogg/meek/issues/33)--2024-04-30
 - [2017年十张最佳天文图片（NASA-APOD中文版）](https://github.com/myogg/meek/issues/11)--2024-04-27
 ## 存档
+- [自动剪辑音频文件](https://github.com/myogg/meek/issues/92)--2024-08-08
 - [单栏样式 & 卡片式设计 的现代 Hexo 主题](https://github.com/myogg/meek/issues/88)--2024-08-02
 - [微软的 Copilot AI 现在能识别糟糕笔迹](https://github.com/myogg/meek/issues/77)--2024-07-17
 - [粉色配色的 Google Pixel 9 真机上手视频。](https://github.com/myogg/meek/issues/69)--2024-07-08
 - [热门动漫盗版门户网站「Animeflix」宣告关闭](https://github.com/myogg/meek/issues/67)--2024-07-08
-- [国区Apple Music 订阅免费领取](https://github.com/myogg/meek/issues/66)--2024-07-08
 <details><summary>显示更多</summary>
 
+- [国区Apple Music 订阅免费领取](https://github.com/myogg/meek/issues/66)--2024-07-08
 - [国区Apple Music 订阅免费领取](https://github.com/myogg/meek/issues/65)--2024-07-08
 - [SpaceX 第四次星舰飞行测试圆满结束](https://github.com/myogg/meek/issues/60)--2024-06-06
 - [近期收集的有宝藏网站](https://github.com/myogg/meek/issues/51)--2024-05-14
@@ -78,13 +79,14 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 - [如何获得高质量休息：真正的休息不是睡觉，而是……](https://github.com/myogg/meek/issues/42)--2024-05-05
 - [广州国家站4月雨量刷新历史记录](https://github.com/myogg/meek/issues/13)--2024-04-27
 ## 一些记录
+- [自动剪辑音频文件](https://github.com/myogg/meek/issues/92)--2024-08-08
 - [在线编辑和分享乐谱的网站](https://github.com/myogg/meek/issues/91)--2024-08-08
 - [Real-time Chat](https://github.com/myogg/meek/issues/90)--2024-08-04
 - [怎样在Github上写博客？](https://github.com/myogg/meek/issues/87)--2024-07-30
 - [今晚巴黎奥运会开幕式，分享几个常用的直播源](https://github.com/myogg/meek/issues/85)--2024-07-26
-- [网络罪犯操纵 GitHub 平台传播恶意程序](https://github.com/myogg/meek/issues/83)--2024-07-25
 <details><summary>显示更多</summary>
 
+- [网络罪犯操纵 GitHub 平台传播恶意程序](https://github.com/myogg/meek/issues/83)--2024-07-25
 - [OpenAI推出“GPT-4o mini](https://github.com/myogg/meek/issues/79)--2024-07-18
 - [代码托管平台 GitLab 正考虑出售，目前市值约 80 亿美元](https://github.com/myogg/meek/issues/78)--2024-07-17
 - [AT&T 数据泄露导致“几乎所有”无线客户的通话和短信记录外泄](https://github.com/myogg/meek/issues/76)--2024-07-17
