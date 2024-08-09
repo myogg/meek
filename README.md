@@ -3,11 +3,11 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 [RSS Feed](https://raw.githubusercontent.com/myogg/meek/master/feed.xml)
 
 ## 最近更新
+- [日本静冈县的两位旧书店主,负重前行，寻找买家](https://github.com/myogg/meek/issues/96)--2024-08-09
 - [密西西比河流域](https://github.com/myogg/meek/issues/95)--2024-08-08
 - [真实方位是如何暴露的？](https://github.com/myogg/meek/issues/94)--2024-08-08
 - [Cloudflare Worker](https://github.com/myogg/meek/issues/93)--2024-08-08
 - [自动剪辑音频文件](https://github.com/myogg/meek/issues/92)--2024-08-08
-- [在线编辑和分享乐谱的网站](https://github.com/myogg/meek/issues/91)--2024-08-08
 ## 正文
 - [Cloudflare Worker](https://github.com/myogg/meek/issues/93)--2024-08-08
 - [在线编辑和分享乐谱的网站](https://github.com/myogg/meek/issues/91)--2024-08-08
@@ -55,13 +55,14 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 - [ 禅意人生算是摆烂吗，我们该以何种态度对待生活?](https://github.com/myogg/meek/issues/33)--2024-04-30
 - [2017年十张最佳天文图片（NASA-APOD中文版）](https://github.com/myogg/meek/issues/11)--2024-04-27
 ## 存档
+- [日本静冈县的两位旧书店主,负重前行，寻找买家](https://github.com/myogg/meek/issues/96)--2024-08-09
 - [真实方位是如何暴露的？](https://github.com/myogg/meek/issues/94)--2024-08-08
 - [自动剪辑音频文件](https://github.com/myogg/meek/issues/92)--2024-08-08
 - [单栏样式 & 卡片式设计 的现代 Hexo 主题](https://github.com/myogg/meek/issues/88)--2024-08-02
 - [微软的 Copilot AI 现在能识别糟糕笔迹](https://github.com/myogg/meek/issues/77)--2024-07-17
-- [粉色配色的 Google Pixel 9 真机上手视频。](https://github.com/myogg/meek/issues/69)--2024-07-08
 <details><summary>显示更多</summary>
 
+- [粉色配色的 Google Pixel 9 真机上手视频。](https://github.com/myogg/meek/issues/69)--2024-07-08
 - [热门动漫盗版门户网站「Animeflix」宣告关闭](https://github.com/myogg/meek/issues/67)--2024-07-08
 - [国区Apple Music 订阅免费领取](https://github.com/myogg/meek/issues/66)--2024-07-08
 - [国区Apple Music 订阅免费领取](https://github.com/myogg/meek/issues/65)--2024-07-08
@@ -81,13 +82,14 @@ My personal blog([About Me](https://myogg.github.com/meek/issues/2)) using issue
 - [如何获得高质量休息：真正的休息不是睡觉，而是……](https://github.com/myogg/meek/issues/42)--2024-05-05
 - [广州国家站4月雨量刷新历史记录](https://github.com/myogg/meek/issues/13)--2024-04-27
 ## 一些记录
+- [日本静冈县的两位旧书店主,负重前行，寻找买家](https://github.com/myogg/meek/issues/96)--2024-08-09
 - [密西西比河流域](https://github.com/myogg/meek/issues/95)--2024-08-08
 - [真实方位是如何暴露的？](https://github.com/myogg/meek/issues/94)--2024-08-08
 - [Cloudflare Worker](https://github.com/myogg/meek/issues/93)--2024-08-08
 - [自动剪辑音频文件](https://github.com/myogg/meek/issues/92)--2024-08-08
-- [在线编辑和分享乐谱的网站](https://github.com/myogg/meek/issues/91)--2024-08-08
 <details><summary>显示更多</summary>
 
+- [在线编辑和分享乐谱的网站](https://github.com/myogg/meek/issues/91)--2024-08-08
 - [Real-time Chat](https://github.com/myogg/meek/issues/90)--2024-08-04
 - [怎样在Github上写博客？](https://github.com/myogg/meek/issues/87)--2024-07-30
 - [今晚巴黎奥运会开幕式，分享几个常用的直播源](https://github.com/myogg/meek/issues/85)--2024-07-26
